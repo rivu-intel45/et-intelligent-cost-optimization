@@ -257,7 +257,7 @@ body {
 
 .nav-track {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   gap: 40px;
   flex-wrap: nowrap;
   flex: 1;
@@ -266,6 +266,8 @@ body {
   scrollbar-width: none;
   -ms-overflow-style: none;
   white-space: nowrap;
+  padding-left: 4px;
+  padding-right: 4px;
 }
 
 .nav-track::-webkit-scrollbar {
