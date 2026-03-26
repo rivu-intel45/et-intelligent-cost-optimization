@@ -1,0 +1,1001 @@
+invoice_id,payment_id,vendor,expected_amount,actual_amount,variance,posting_date,status,department,root_cause,recommended_action
+53973601,PAY-0198180401,DISCOUNT BUILDERS SUPPLY,256.05,256.05,0.0,2022-02-15,matched,HOM Homelessness Services,Matched payment,No action required.
+53924401,PAY-0182698301,BlueTriton Brands Inc,41.03,41.03,0.0,2021-10-01,matched,DPH Public Health,Matched payment,No action required.
+53983701,PAY-0198325601,VERIZON WIRELESS,41.54,48.87,7.33,2022-02-17,overpaid,PUC Public Utilities Commsn,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53924401,PAY-0206278301,BlueTriton Brands Inc,67.39,67.39,0.0,2022-05-24,matched,DPH Public Health,Matched payment,No action required.
+54006301,PAY-0180025301,STAPLES BUSINESS ADVANTAGE,293.74,293.74,0.0,2021-09-10,duplicate_suspected,LIB Public Library,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+54007901,PAY-0180295201,Multi Shipping Center & More,28.03,28.03,0.0,2021-09-13,duplicate_suspected,PUC Public Utilities Commsn,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53918301,PAY-0198816701,KONICA MINOLTA BUSINESS SOLUTNS USA INC,32.88,32.88,0.0,2022-02-22,matched,DPH Public Health,Matched payment,No action required.
+53917201,PAY-0174160901,VESTIS SERVICES LLC,516.43,516.43,0.0,2021-07-20,matched,AIR Airport Commission,Matched payment,No action required.
+53982601,PAY-0179399701,GRAINGER,566.7,666.71,100.01,2021-09-02,overpaid,PUC Public Utilities Commsn,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53924401,PAY-0178247301,BlueTriton Brands Inc,4.33,4.33,0.0,2021-08-23,matched,DPH Public Health,Matched payment,No action required.
+53925701,PAY-0180470701,OFFICE DEPOT,251.66,251.66,0.0,2021-09-14,matched,DPH Public Health,Matched payment,No action required.
+53972701,PAY-0193159901,XEROX CORPORATION,30.17,30.17,0.0,2022-01-07,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53917201,PAY-0193895401,VESTIS SERVICES LLC,433.89,433.89,0.0,2022-01-11,matched,AIR Airport Commission,Matched payment,No action required.
+53987201,PAY-0173698101,MEDLINE INDUSTRIES INC,29.39,24.91,-4.48,2021-07-16,underpaid,DPH Public Health,Installment split created a short settlement,Match split installments against the original invoice value.
+53944301,PAY-0175352801,M S C INDUSTRIAL SUPPLY COMPANY INC,9.95,9.95,0.0,2021-07-29,matched,ADM GSA - City Administrator,Matched payment,No action required.
+54011001,PAY-0199273701,HILL-ROM COMPANY INC,3704.04,3818.6,114.56,2022-02-23,ledger_mismatch,DPH Public Health,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+53969601,PAY-0202247701,TFB GLOBAL LLC,459.83,459.83,0.0,2022-03-16,matched,AIR Airport Commission,Matched payment,No action required.
+53928401,PAY-0204253201,FILIPINO-AMERICAN DEVELOPMENT FOUNDATION,2774.34,2774.34,0.0,2022-03-31,matched,MYR Mayor,Matched payment,No action required.
+53975701,PAY-0186425901,CENTER HARDWARE CO INC,74.61,74.61,0.0,2021-11-04,matched,REG Elections,Matched payment,No action required.
+53938201,PAY-0175716401,TERUMO MEDICAL CORP,2281.13,2281.13,0.0,2021-08-02,matched,DPH Public Health,Matched payment,No action required.
+53924401,PAY-0180441401,BlueTriton Brands Inc,19.01,19.01,0.0,2021-09-14,matched,DPH Public Health,Matched payment,No action required.
+53965201,PAY-0204943201,GOLDEN GATE PETROLEUM,6072.4,6072.4,0.0,2022-04-06,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53975701,PAY-0197169001,CENTER HARDWARE CO INC,483.96,569.36,85.4,2022-02-08,overpaid,REG Elections,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53934601,PAY-0184321201,GRAINGER,420.43,420.43,0.0,2021-10-18,matched,DPH Public Health,Matched payment,No action required.
+53919601,PAY-0187502101,BAIN CAPITAL CREDIT LP,7430.77,7430.77,0.0,2021-11-15,matched,RET Retirement System,Matched payment,No action required.
+53917201,PAY-0204112801,VESTIS SERVICES LLC,22.18,22.18,0.0,2022-03-30,matched,AIR Airport Commission,Matched payment,No action required.
+53951301,PAY-0177513901,VESTIS SERVICES LLC,151.61,151.61,0.0,2021-08-17,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53960601,PAY-0173835101,PACE SUPPLY CORP,30.64,30.64,0.0,2021-07-19,matched,HSA Human Services Agency,Matched payment,No action required.
+53943801,PAY-0193814801,MICROBIZ SECURITY CO INC,30.0,30.0,0.0,2022-01-12,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53995901,PAY-0181121001,SHRED WORKS,94.4,80.0,-14.4,2021-09-20,underpaid,CAT City Attorney,Installment split created a short settlement,Match split installments against the original invoice value.
+53968901,PAY-0199408401,CITY AUTO SUPPLY,723.45,723.45,0.0,2022-02-24,matched,AIR Airport Commission,Matched payment,No action required.
+53920401,PAY-0195503601,EBP US INC,15452.66,15452.66,0.0,2022-01-26,matched,AIR Airport Commission,Matched payment,No action required.
+53924401,PAY-0212415901,BlueTriton Brands Inc,58.72,58.72,0.0,2022-06-07,matched,DPH Public Health,Matched payment,No action required.
+54000201,PAY-0179944701,GARRATT-CALLAHAN COMPANY,1668.58,1668.58,0.0,2021-09-09,duplicate_suspected,DPH Public Health,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53925701,PAY-0177782201,OFFICE DEPOT,446.79,446.79,0.0,2021-08-18,matched,DPH Public Health,Matched payment,No action required.
+53970601,PAY-0206592001,SERRAMONTE FORD,179.34,179.34,0.0,2022-04-20,matched,AIR Airport Commission,Matched payment,No action required.
+53972701,PAY-0177711301,XEROX CORPORATION,189.82,189.82,0.0,2021-08-18,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53988801,PAY-0194998701,HARRISON & BONINI INC,322.66,273.44,-49.22,2022-01-21,underpaid,AIR Airport Commission,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53996701,PAY-0191231301,WESTERN STATES OIL,5384.03,4562.74,-821.29,2021-12-15,underpaid,FIR Fire Department,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53993801,PAY-0173809001,MEDLINE INDUSTRIES INC,23.59,19.99,-3.6,2021-07-17,underpaid,DPH Public Health,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53975701,PAY-0203327101,CENTER HARDWARE CO INC,18.45,21.71,3.26,2022-03-24,overpaid,REG Elections,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53980601,PAY-0177289301,MICHEL A. KOZAK,2040.0,2400.0,360.0,2021-08-13,overpaid,POL Police,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53969601,PAY-0190373001,TFB GLOBAL LLC,1571.33,1571.33,0.0,2021-12-08,matched,AIR Airport Commission,Matched payment,No action required.
+53952501,PAY-0209869301,VESTIS SERVICES LLC,14.9,14.9,0.0,2022-05-17,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53924401,PAY-0207184601,BlueTriton Brands Inc,48.37,48.37,0.0,2022-04-25,matched,DPH Public Health,Matched payment,No action required.
+53970601,PAY-0188819601,SERRAMONTE FORD,124.53,124.53,0.0,2021-11-23,matched,AIR Airport Commission,Matched payment,No action required.
+53953501,PAY-0199638101,SAN FRANCISCO FOOD BANK,256.38,256.38,0.0,2022-02-26,matched,DPH Public Health,Matched payment,No action required.
+53924401,PAY-0182647701,BlueTriton Brands Inc,92.41,92.41,0.0,2021-10-01,matched,DPH Public Health,Matched payment,No action required.
+53970601,PAY-0210437901,SERRAMONTE FORD,588.46,588.46,0.0,2022-05-21,matched,AIR Airport Commission,Matched payment,No action required.
+54006301,PAY-0198808101,STAPLES BUSINESS ADVANTAGE,114.14,114.14,0.0,2022-02-18,duplicate_suspected,LIB Public Library,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53924401,PAY-0202259701,BlueTriton Brands Inc,70.39,70.39,0.0,2022-03-16,matched,DPH Public Health,Matched payment,No action required.
+53924401,PAY-0207205601,BlueTriton Brands Inc,4.33,4.33,0.0,2022-04-25,matched,DPH Public Health,Matched payment,No action required.
+53961201,PAY-0173559801,MEDLINE INDUSTRIES INC,28.04,28.04,0.0,2021-07-15,matched,DPH Public Health,Matched payment,No action required.
+53952501,PAY-0189001701,VESTIS SERVICES LLC,14.9,14.9,0.0,2021-11-24,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53968901,PAY-0180002101,CITY AUTO SUPPLY,28.23,28.23,0.0,2021-09-10,matched,AIR Airport Commission,Matched payment,No action required.
+53951101,PAY-0178955301,GRAINGER,163.51,163.51,0.0,2021-08-31,matched,LIB Public Library,Matched payment,No action required.
+53968801,PAY-0173363401,SELF-HELP FOR THE ELDERLY,143595.0,143595.0,0.0,2021-07-14,matched,HSA Human Services Agency,Matched payment,No action required.
+53989101,PAY-0175395601,SPEEDY'S HARDWARE,4209.33,3567.23,-642.1,2021-07-30,underpaid,DPW Public Works,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53976401,PAY-0178411501,K & H INTEGRATED PRINT SOLUTIONS,31023.77,36498.55,5474.78,2021-08-24,overpaid,REG Elections,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53939401,PAY-0196289501,BOUND TREE MEDICAL LLC,2286.6,2286.6,0.0,2022-02-02,matched,FIR Fire Department,Matched payment,No action required.
+54007001,PAY-0199228301,GRAINGER,596.59,596.59,0.0,2022-02-23,duplicate_suspected,LIB Public Library,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53917201,PAY-0188793701,VESTIS SERVICES LLC,571.35,571.35,0.0,2021-11-23,matched,AIR Airport Commission,Matched payment,No action required.
+53939401,PAY-0191217601,BOUND TREE MEDICAL LLC,10123.21,10123.21,0.0,2021-12-15,matched,FIR Fire Department,Matched payment,No action required.
+53995301,PAY-0191009901,MT ST JOSEPH-ST ELIZABETH,23892.98,20248.29,-3644.69,2021-12-14,underpaid,DPH Public Health,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53973401,PAY-0213676801,OFFICE DEPOT,35.17,35.17,0.0,2022-06-24,matched,DPH Public Health,Matched payment,No action required.
+53971201,PAY-0192522401,XEROX CORPORATION,152.64,152.64,0.0,2021-12-27,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+54011001,PAY-0191389701,HILL-ROM COMPANY INC,4512.94,4652.52,139.58,2021-12-16,ledger_mismatch,DPH Public Health,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+53966501,PAY-0192178001,PROFESSIONAL CONTRACTOR SUPPLY (PCS),386.28,386.28,0.0,2021-12-22,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53922401,PAY-0186455101,Morgan Stanley Capital Group Inc.,345098.25,345098.25,0.0,2021-12-13,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53965201,PAY-0211670401,GOLDEN GATE PETROLEUM,4211.51,4211.51,0.0,2022-06-01,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+54008201,PAY-0202069001,MISSION LINEN SUPPLY,335.28,345.65,10.37,2022-03-15,ledger_mismatch,DPH Public Health,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53921401,PAY-0187759101,CALPINE ENERGY SERVICES LP,75000.0,75000.0,0.0,2021-11-17,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53939801,PAY-0173572701,MEDLINE INDUSTRIES INC,123.36,123.36,0.0,2021-07-15,matched,DPH Public Health,Matched payment,No action required.
+53981701,PAY-0209553901,TREELINE SECURITY INC,2611.84,3072.75,460.91,2022-05-13,overpaid,PUC Public Utilities Commsn,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53966601,PAY-0177516301,DIRECTV INC,13.0,13.0,0.0,2021-08-17,matched,PRT Port,Matched payment,No action required.
+54008201,PAY-0180723001,MISSION LINEN SUPPLY,362.94,374.17,11.23,2021-09-16,ledger_mismatch,DPH Public Health,Ledger update lag after payment clearance,Refresh ledger sync and confirm the final posted amount.
+53996701,PAY-0194104301,WESTERN STATES OIL,4044.93,3427.91,-617.02,2022-01-12,underpaid,FIR Fire Department,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53918901,PAY-0201625901,EPISCOPAL COMMUNITY SVCS OF S F INC,0.97,0.97,0.0,2022-03-11,matched,DPH Public Health,Matched payment,No action required.
+53925701,PAY-0211480401,OFFICE DEPOT,114.73,114.73,0.0,2022-05-31,matched,DPH Public Health,Matched payment,No action required.
+53969601,PAY-0178889001,TFB GLOBAL LLC,9204.56,9204.56,0.0,2021-08-30,matched,AIR Airport Commission,Matched payment,No action required.
+53935901,PAY-0173808901,MEDLINE INDUSTRIES INC,19.99,19.99,0.0,2021-07-17,matched,DPH Public Health,Matched payment,No action required.
+53973601,PAY-0186536701,DISCOUNT BUILDERS SUPPLY,63.84,63.84,0.0,2021-11-08,matched,HOM Homelessness Services,Matched payment,No action required.
+53915801,PAY-0172084701,MICROBIZ SECURITY CO INC,971.11,971.11,0.0,2021-07-13,matched,REC Recreation & Park Commsn,Matched payment,No action required.
+53996701,PAY-0196402601,WESTERN STATES OIL,5947.84,5040.54,-907.3,2022-02-03,underpaid,FIR Fire Department,Installment split created a short settlement,Match split installments against the original invoice value.
+53976001,PAY-0176625101,Jimmie Muscatello's,328.23,386.15,57.92,2021-08-09,overpaid,POL Police,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53969601,PAY-0207595701,TFB GLOBAL LLC,795.38,795.38,0.0,2022-04-28,matched,AIR Airport Commission,Matched payment,No action required.
+53954401,PAY-0202215301,PARKMERCED OWNER LLC,2379.0,2379.0,0.0,2022-03-16,matched,HSA Human Services Agency,Matched payment,No action required.
+53950801,PAY-0175881101,US FOODS INC,108.4,108.4,0.0,2021-08-03,matched,DPH Public Health,Matched payment,No action required.
+53952301,PAY-0198329701,FELTON INSTITUTE,21826.37,21826.37,0.0,2022-02-16,matched,DPH Public Health,Matched payment,No action required.
+53965201,PAY-0196376301,GOLDEN GATE PETROLEUM,4656.71,4656.71,0.0,2022-02-02,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53983701,PAY-0205912101,VERIZON WIRELESS,730.9,859.88,128.98,2022-04-14,overpaid,PUC Public Utilities Commsn,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53996701,PAY-0209167601,WESTERN STATES OIL,6548.47,5549.55,-998.92,2022-05-11,underpaid,FIR Fire Department,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53996701,PAY-0189546901,WESTERN STATES OIL,946.42,802.05,-144.37,2021-12-01,underpaid,FIR Fire Department,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+54004501,PAY-0192498501,WESTERN ROOFING SERVICE,788.95,788.95,0.0,2021-12-27,duplicate_suspected,LIB Public Library,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53991001,PAY-0179706901,S F DENTAL SUPPLY LLC,3656.78,3098.97,-557.81,2021-09-07,underpaid,DPH Public Health,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53927401,PAY-0176154201,L N CURTIS & SONS,4833.22,4833.22,0.0,2021-08-05,matched,AIR Airport Commission,Matched payment,No action required.
+53970601,PAY-0197641701,SERRAMONTE FORD,298.17,298.17,0.0,2022-02-11,matched,AIR Airport Commission,Matched payment,No action required.
+53979001,PAY-0179820201,AON RISK INSURANCE SERVICES WEST INC,81600.0,96000.0,14400.0,2021-09-08,overpaid,ADM GSA - City Administrator,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53937201,PAY-0212956201,BUCKLES-SMITH ELECTRIC CO,1173.15,1173.15,0.0,2022-06-10,matched,PRT Port,Matched payment,No action required.
+54000501,PAY-0188950401,WESTSIDE COMMUNITY MENTAL HEALTH CTR INC,577.46,577.46,0.0,2021-11-24,duplicate_suspected,DPH Public Health,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53924401,PAY-0180117701,BlueTriton Brands Inc,99.75,99.75,0.0,2021-09-10,matched,DPH Public Health,Matched payment,No action required.
+53944301,PAY-0175355001,M S C INDUSTRIAL SUPPLY COMPANY INC,206.35,206.35,0.0,2021-07-29,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53970601,PAY-0180520301,SERRAMONTE FORD,1761.86,1761.86,0.0,2021-09-15,matched,AIR Airport Commission,Matched payment,No action required.
+53968901,PAY-0177264801,CITY AUTO SUPPLY,721.76,721.76,0.0,2021-08-13,matched,AIR Airport Commission,Matched payment,No action required.
+53939401,PAY-0182143401,BOUND TREE MEDICAL LLC,457.7,457.7,0.0,2021-09-27,matched,FIR Fire Department,Matched payment,No action required.
+53951301,PAY-0211492701,VESTIS SERVICES LLC,73.5,73.5,0.0,2022-05-31,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53996701,PAY-0192180701,WESTERN STATES OIL,4377.13,3709.43,-667.7,2021-12-22,underpaid,FIR Fire Department,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53918901,PAY-0192084601,EPISCOPAL COMMUNITY SVCS OF S F INC,7939.1,7939.1,0.0,2021-12-22,matched,DPH Public Health,Matched payment,No action required.
+53949801,PAY-0205391701,WILLIAM STOUT ARCHITECTURAL BOOKS,99.88,99.88,0.0,2022-04-11,matched,LIB Public Library,Matched payment,No action required.
+54009801,PAY-0209952601,CITY AUTO SUPPLY,75.75,78.09,2.34,2022-05-25,ledger_mismatch,MTA Municipal Transprtn Agncy,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53971301,PAY-0209937001,KONICA MINOLTA BUSINESS SOLUTNS USA INC,360.06,360.06,0.0,2022-05-18,matched,DPH Public Health,Matched payment,No action required.
+53975701,PAY-0184305801,CENTER HARDWARE CO INC,273.26,273.26,0.0,2021-10-18,matched,REG Elections,Matched payment,No action required.
+53921301,PAY-0179056801,INTERNATIONAL FIRE INC,290.46,290.46,0.0,2021-08-31,matched,ADM GSA - City Administrator,Matched payment,No action required.
+54007601,PAY-0199221401,EVERBRIDGE INC,28950.0,28950.0,0.0,2022-02-23,duplicate_suspected,AIR Airport Commission,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+54011001,PAY-0212014001,HILL-ROM COMPANY INC,3704.04,3818.6,114.56,2022-06-13,ledger_mismatch,DPH Public Health,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+53951301,PAY-0181377001,VESTIS SERVICES LLC,21.95,21.95,0.0,2021-09-21,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53996401,PAY-0185753601,MACKAY METERS INC,945.42,801.2,-144.22,2021-11-05,underpaid,MTA Municipal Transprtn Agncy,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53949301,PAY-0179110901,OFFICE DEPOT,5.61,5.61,0.0,2021-09-01,matched,DPH Public Health,Matched payment,No action required.
+53996401,PAY-0182985101,MACKAY METERS INC,781.54,662.32,-119.22,2021-10-19,underpaid,MTA Municipal Transprtn Agncy,Installment split created a short settlement,Match split installments against the original invoice value.
+53951301,PAY-0193214701,VESTIS SERVICES LLC,92.61,92.61,0.0,2022-01-04,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53976001,PAY-0175052601,Jimmie Muscatello's,310.68,365.5,54.82,2021-07-28,overpaid,POL Police,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53951301,PAY-0200469901,VESTIS SERVICES LLC,21.95,21.95,0.0,2022-03-07,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53960901,PAY-0196954101,CORE LINEN SERVICES INC.,23546.18,23546.18,0.0,2022-02-07,matched,DPH Public Health,Matched payment,No action required.
+53976001,PAY-0176685801,Jimmie Muscatello's,10.46,12.31,1.85,2021-08-09,overpaid,POL Police,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+54008201,PAY-0214347001,MISSION LINEN SUPPLY,830.53,856.22,25.69,2022-06-21,ledger_mismatch,DPH Public Health,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+53951301,PAY-0175070401,VESTIS SERVICES LLC,73.5,73.5,0.0,2021-08-19,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53983701,PAY-0202597601,VERIZON WIRELESS,305.34,359.22,53.88,2022-03-18,overpaid,PUC Public Utilities Commsn,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53969601,PAY-0192213901,TFB GLOBAL LLC,2138.05,2138.05,0.0,2021-12-23,matched,AIR Airport Commission,Matched payment,No action required.
+53924401,PAY-0191031901,BlueTriton Brands Inc,26.35,26.35,0.0,2021-12-14,matched,DPH Public Health,Matched payment,No action required.
+53968901,PAY-0205916901,CITY AUTO SUPPLY,355.01,355.01,0.0,2022-04-14,matched,AIR Airport Commission,Matched payment,No action required.
+53976701,PAY-0211290201,MAINLINE SECURITY INC.,27.23,32.04,4.81,2022-05-30,overpaid,HOM Homelessness Services,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53918301,PAY-0189394601,KONICA MINOLTA BUSINESS SOLUTNS USA INC,483.03,483.03,0.0,2021-11-30,matched,DPH Public Health,Matched payment,No action required.
+53996701,PAY-0200463801,WESTERN STATES OIL,6085.24,5156.98,-928.26,2022-03-02,underpaid,FIR Fire Department,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53922101,PAY-0211710601,OFFICE DEPOT,33.9,33.9,0.0,2022-06-02,matched,DPH Public Health,Matched payment,No action required.
+53921301,PAY-0200752701,INTERNATIONAL FIRE INC,290.45,290.45,0.0,2022-03-03,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53917201,PAY-0203020801,VESTIS SERVICES LLC,605.5,605.5,0.0,2022-03-22,matched,AIR Airport Commission,Matched payment,No action required.
+54000501,PAY-0202147001,WESTSIDE COMMUNITY MENTAL HEALTH CTR INC,16014.47,16014.47,0.0,2022-03-15,duplicate_suspected,DPH Public Health,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53950801,PAY-0177479601,US FOODS INC,7617.91,7617.91,0.0,2021-08-17,matched,DPH Public Health,Matched payment,No action required.
+53939401,PAY-0190938101,BOUND TREE MEDICAL LLC,648.43,648.43,0.0,2021-12-13,matched,FIR Fire Department,Matched payment,No action required.
+53969601,PAY-0207593701,TFB GLOBAL LLC,295.64,295.64,0.0,2022-04-28,matched,AIR Airport Commission,Matched payment,No action required.
+53947701,PAY-0202206801,GRM INFORMATION MANAGEMENT SERVICES,499.42,499.42,0.0,2022-03-16,matched,DPH Public Health,Matched payment,No action required.
+53920801,PAY-0193057201,OFFICE DEPOT,10.86,10.86,0.0,2022-01-03,matched,DPH Public Health,Matched payment,No action required.
+53933201,PAY-0204289501,SWCA ENVIRONMENTAL CONSULTANTS,127.5,127.5,0.0,2022-04-01,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53985001,PAY-0173714501,MEDLINE INDUSTRIES INC,1082.8,1273.88,191.08,2021-07-16,overpaid,DPH Public Health,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53945501,PAY-0204710301,CRESCO EQUIPMENT RENTALS,5105.38,5105.38,0.0,2022-04-25,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53952501,PAY-0174555501,VESTIS SERVICES LLC,693.27,693.27,0.0,2021-07-22,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53968901,PAY-0190996901,CITY AUTO SUPPLY,195.13,195.13,0.0,2021-12-14,matched,AIR Airport Commission,Matched payment,No action required.
+53948201,PAY-0208016001,VESTIS SERVICES LLC,272.4,272.4,0.0,2022-05-02,matched,LIB Public Library,Matched payment,No action required.
+53969201,PAY-0201084201,CAL-STEAM A WOLSELEY COMPANY,369.81,369.81,0.0,2022-03-08,matched,LIB Public Library,Matched payment,No action required.
+53924401,PAY-0200152301,BlueTriton Brands Inc,33.69,33.69,0.0,2022-02-28,matched,DPH Public Health,Matched payment,No action required.
+54008601,PAY-0185797901,KONICA MINOLTA BUSINESS SOLUTNS USA INC,733.98,756.68,22.7,2021-10-29,ledger_mismatch,DPH Public Health,Ledger update lag after payment clearance,Refresh ledger sync and confirm the final posted amount.
+53919001,PAY-0189928901,CENTER HARDWARE CO INC,10.86,10.86,0.0,2021-12-03,matched,REC Recreation & Park Commsn,Matched payment,No action required.
+53981701,PAY-0194726401,TREELINE SECURITY INC,2611.84,3072.75,460.91,2022-01-19,overpaid,PUC Public Utilities Commsn,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53944201,PAY-0204507701,GRM INFORMATION MANAGEMENT SERVICES,140.4,140.4,0.0,2022-04-04,matched,DPH Public Health,Matched payment,No action required.
+54011001,PAY-0186041001,HILL-ROM COMPANY INC,2941.61,3032.59,90.98,2021-11-12,ledger_mismatch,DPH Public Health,Ledger update lag after payment clearance,Refresh ledger sync and confirm the final posted amount.
+53970601,PAY-0178615701,SERRAMONTE FORD,553.16,553.16,0.0,2021-08-26,matched,AIR Airport Commission,Matched payment,No action required.
+53969001,PAY-0190808001,XEROX CORPORATION,135.57,135.57,0.0,2021-12-13,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53946901,PAY-0174266801,MICHAEL S WARR,18000.0,18000.0,0.0,2021-07-21,matched,ART Arts Commission,Matched payment,No action required.
+53946201,PAY-0174270201,Lauren Garcia,18000.0,18000.0,0.0,2021-07-21,matched,ART Arts Commission,Matched payment,No action required.
+53980201,PAY-0194059601,DUDEK,17665.63,20783.09,3117.46,2022-01-14,overpaid,AIR Airport Commission,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53924401,PAY-0206983701,BlueTriton Brands Inc,107.09,107.09,0.0,2022-04-22,matched,DPH Public Health,Matched payment,No action required.
+54009801,PAY-0206553301,CITY AUTO SUPPLY,24.99,25.76,0.77,2022-04-25,ledger_mismatch,MTA Municipal Transprtn Agncy,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+53996301,PAY-0182938601,MALTBY ELECTRIC SUPPLY CO INC,275.99,233.89,-42.1,2021-10-05,underpaid,AIR Airport Commission,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53931301,PAY-0208051301,KONICA MINOLTA BUSINESS SOLUTNS USA INC,519.84,519.84,0.0,2022-05-02,matched,DPH Public Health,Matched payment,No action required.
+53970001,PAY-0173786401,CARDINALHEALTH MEDICAL PRODUCTS & SVCS,128.03,128.03,0.0,2021-07-21,matched,DPH Public Health,Matched payment,No action required.
+53952701,PAY-0177269201,XTECH,3257.44,3257.44,0.0,2021-08-19,matched,AIR Airport Commission,Matched payment,No action required.
+53914901,PAY-0207434701,KONICA MINOLTA BUSINESS SOLUTNS USA INC,10.16,10.16,0.0,2022-04-27,matched,DPH Public Health,Matched payment,No action required.
+53948201,PAY-0190736701,VESTIS SERVICES LLC,272.4,272.4,0.0,2021-12-10,matched,LIB Public Library,Matched payment,No action required.
+53957801,PAY-0184415901,OFFICE DEPOT,565.98,565.98,0.0,2021-10-19,matched,DPH Public Health,Matched payment,No action required.
+53970401,PAY-0206166101,SAN FRANCISCO PAINTSOURCE INC,250.88,250.88,0.0,2022-04-15,matched,AIR Airport Commission,Matched payment,No action required.
+53969601,PAY-0186359601,TFB GLOBAL LLC,169.77,169.77,0.0,2021-11-04,matched,AIR Airport Commission,Matched payment,No action required.
+53970401,PAY-0190383601,SAN FRANCISCO PAINTSOURCE INC,131.96,131.96,0.0,2021-12-08,matched,AIR Airport Commission,Matched payment,No action required.
+53968901,PAY-0180497201,CITY AUTO SUPPLY,146.85,146.85,0.0,2021-09-15,matched,AIR Airport Commission,Matched payment,No action required.
+53961901,PAY-0173559501,MEDLINE INDUSTRIES INC,32.5,32.5,0.0,2021-07-15,matched,DPH Public Health,Matched payment,No action required.
+53918001,PAY-0198564701,OFFICE DEPOT,60.81,60.81,0.0,2022-02-17,matched,DPH Public Health,Matched payment,No action required.
+53957801,PAY-0204885301,OFFICE DEPOT,11.13,11.13,0.0,2022-04-05,matched,DPH Public Health,Matched payment,No action required.
+53952501,PAY-0187688301,VESTIS SERVICES LLC,181.02,181.02,0.0,2021-11-16,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53914901,PAY-0207433301,KONICA MINOLTA BUSINESS SOLUTNS USA INC,29.34,29.34,0.0,2022-04-27,matched,DPH Public Health,Matched payment,No action required.
+53969601,PAY-0180536701,TFB GLOBAL LLC,841.53,841.53,0.0,2021-09-15,matched,AIR Airport Commission,Matched payment,No action required.
+53952501,PAY-0195489101,VESTIS SERVICES LLC,26.61,26.61,0.0,2022-01-26,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53953501,PAY-0189130001,SAN FRANCISCO FOOD BANK,5160.05,5160.05,0.0,2021-12-01,matched,DPH Public Health,Matched payment,No action required.
+53978901,PAY-0213456101,LANGUAGELINE SOLUTIONS,6111.34,7189.81,1078.47,2022-06-15,overpaid,POL Police,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53920501,PAY-0208069101,A C TRANSIT,46973.19,46973.19,0.0,2022-05-12,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53995901,PAY-0196909601,SHRED WORKS,94.4,80.0,-14.4,2022-02-07,underpaid,CAT City Attorney,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53976001,PAY-0175083301,Jimmie Muscatello's,328.36,386.3,57.94,2021-07-27,overpaid,POL Police,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53939401,PAY-0173919201,BOUND TREE MEDICAL LLC,2907.66,2907.66,0.0,2021-07-19,matched,FIR Fire Department,Matched payment,No action required.
+53924401,PAY-0186180901,BlueTriton Brands Inc,4.33,4.33,0.0,2021-11-02,matched,DPH Public Health,Matched payment,No action required.
+53917201,PAY-0197520601,VESTIS SERVICES LLC,484.6,484.6,0.0,2022-02-10,matched,AIR Airport Commission,Matched payment,No action required.
+53972001,PAY-0207315401,CENTER HARDWARE CO INC,68.6,68.6,0.0,2022-04-26,matched,HOM Homelessness Services,Matched payment,No action required.
+54006301,PAY-0177756201,STAPLES BUSINESS ADVANTAGE,121.75,121.75,0.0,2021-08-18,duplicate_suspected,LIB Public Library,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53939401,PAY-0197521201,BOUND TREE MEDICAL LLC,632.86,632.86,0.0,2022-02-10,matched,FIR Fire Department,Matched payment,No action required.
+53983701,PAY-0212193201,VERIZON WIRELESS,317.81,373.89,56.08,2022-06-06,overpaid,PUC Public Utilities Commsn,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53969601,PAY-0184036801,TFB GLOBAL LLC,162.28,162.28,0.0,2021-10-14,matched,AIR Airport Commission,Matched payment,No action required.
+53920801,PAY-0195348301,OFFICE DEPOT,428.74,428.74,0.0,2022-01-25,matched,DPH Public Health,Matched payment,No action required.
+53995701,PAY-0176929301,PAYBYPHONE TECHNOLOGIES INC,13221.66,11204.8,-2016.86,2021-09-08,underpaid,MTA Municipal Transprtn Agncy,Installment split created a short settlement,Match split installments against the original invoice value.
+53918301,PAY-0206546601,KONICA MINOLTA BUSINESS SOLUTNS USA INC,79.28,79.28,0.0,2022-04-21,matched,DPH Public Health,Matched payment,No action required.
+53976001,PAY-0175041401,Jimmie Muscatello's,203.67,239.61,35.94,2021-07-27,overpaid,POL Police,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53966301,PAY-0203289501,PACIFIC GAS & ELECTRIC CO,540000.0,540000.0,0.0,2022-03-24,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53975701,PAY-0204633701,CENTER HARDWARE CO INC,34.61,40.72,6.11,2022-04-04,overpaid,REG Elections,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53969601,PAY-0206594401,TFB GLOBAL LLC,166.34,166.34,0.0,2022-04-20,matched,AIR Airport Commission,Matched payment,No action required.
+54008001,PAY-0195859401,SUPERIOR AUTOMATIC SPRINKLER CO,425.0,425.0,0.0,2022-01-28,duplicate_suspected,LIB Public Library,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53954401,PAY-0177006201,PARKMERCED OWNER LLC,2379.0,2379.0,0.0,2021-08-11,matched,HSA Human Services Agency,Matched payment,No action required.
+53943501,PAY-0189430101,HARRISON & BONINI INC,38.24,38.24,0.0,2021-11-30,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53943701,PAY-0188028501,PATRICK & CO,47.69,47.69,0.0,2021-11-18,matched,ASR Assessor - Recorder,Matched payment,No action required.
+53972001,PAY-0195930101,CENTER HARDWARE CO INC,52.77,52.77,0.0,2022-01-30,matched,HOM Homelessness Services,Matched payment,No action required.
+53944301,PAY-0200791701,M S C INDUSTRIAL SUPPLY COMPANY INC,234.63,234.63,0.0,2022-03-04,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53973601,PAY-0208072701,DISCOUNT BUILDERS SUPPLY,41.22,41.22,0.0,2022-05-03,matched,HOM Homelessness Services,Matched payment,No action required.
+53968901,PAY-0210473001,CITY AUTO SUPPLY,128.08,128.08,0.0,2022-05-22,matched,AIR Airport Commission,Matched payment,No action required.
+53926101,PAY-0187699701,G4S SECURE INTEGRATION LLC,6720.0,6720.0,0.0,2021-11-16,matched,AIR Airport Commission,Matched payment,No action required.
+53960901,PAY-0178747001,CORE LINEN SERVICES INC.,21080.85,21080.85,0.0,2021-08-27,matched,DPH Public Health,Matched payment,No action required.
+53975701,PAY-0189235401,CENTER HARDWARE CO INC,182.8,182.8,0.0,2021-11-29,matched,REG Elections,Matched payment,No action required.
+53940901,PAY-0183316601,SIEMENS INDUSTRY INC,895.0,895.0,0.0,2021-10-07,matched,WAR War Memorial,Matched payment,No action required.
+53959201,PAY-0180140301,FONG BROTHERS PRINTING INC,3115.0,3115.0,0.0,2021-09-12,matched,AIR Airport Commission,Matched payment,No action required.
+53935301,PAY-0173558201,MEDLINE INDUSTRIES INC,1669.94,1669.94,0.0,2021-07-15,matched,DPH Public Health,Matched payment,No action required.
+53995801,PAY-0181839401,SPOTLIGHT PROMOTIONS INC,6895.97,5844.04,-1051.93,2021-09-23,underpaid,LIB Public Library,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53949301,PAY-0204205901,OFFICE DEPOT,471.26,471.26,0.0,2022-03-31,matched,DPH Public Health,Matched payment,No action required.
+53923001,PAY-0197414401,EMS BRUEL & KJAER INC,27666.67,27666.67,0.0,2022-02-09,matched,AIR Airport Commission,Matched payment,No action required.
+53944301,PAY-0200781001,M S C INDUSTRIAL SUPPLY COMPANY INC,24.51,24.51,0.0,2022-03-04,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53952501,PAY-0192302201,VESTIS SERVICES LLC,27.0,27.0,0.0,2021-12-23,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53975701,PAY-0211101201,CENTER HARDWARE CO INC,14.99,17.63,2.64,2022-05-26,overpaid,REG Elections,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+54008201,PAY-0175574701,MISSION LINEN SUPPLY,363.75,363.75,0.0,2021-08-02,duplicate_suspected,DPH Public Health,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+54004301,PAY-0175138501,NUANCE COMMUNICATIONS INC,3438.81,3438.81,0.0,2021-07-28,duplicate_suspected,DPH Public Health,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53965801,PAY-0180841101,ALAMEDA ELECTRICAL DISTRIBUTORS INC,4073.44,4073.44,0.0,2021-09-17,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53996301,PAY-0178409001,MALTBY ELECTRIC SUPPLY CO INC,5475.2,4640.0,-835.2,2021-08-24,underpaid,AIR Airport Commission,Installment split created a short settlement,Match split installments against the original invoice value.
+53976001,PAY-0175082301,Jimmie Muscatello's,310.77,365.61,54.84,2021-07-27,overpaid,POL Police,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53976701,PAY-0196175201,MAINLINE SECURITY INC.,70.09,82.46,12.37,2022-02-18,overpaid,HOM Homelessness Services,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53924101,PAY-0190273101,SONOMA CLEAN POWER,5580.0,5580.0,0.0,2021-12-21,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53927201,PAY-0173396501,B M I IMAGING SYSTEMS,474.8,474.8,0.0,2021-07-15,matched,DBI Building Inspection,Matched payment,No action required.
+53924501,PAY-0191708701,SOUTHERN CALIFORNIA EDISON CO.,195500.0,195500.0,0.0,2021-12-21,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53924401,PAY-0206967001,BlueTriton Brands Inc,85.07,85.07,0.0,2022-04-22,matched,DPH Public Health,Matched payment,No action required.
+53952501,PAY-0181376101,VESTIS SERVICES LLC,176.7,176.7,0.0,2021-09-21,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53920301,PAY-0201081001,HARRISON & BONINI INC,218.55,218.55,0.0,2022-03-18,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53921301,PAY-0202132801,INTERNATIONAL FIRE INC,23.54,23.54,0.0,2022-03-15,matched,ADM GSA - City Administrator,Matched payment,No action required.
+54006301,PAY-0194078801,STAPLES BUSINESS ADVANTAGE,252.63,252.63,0.0,2022-01-12,duplicate_suspected,LIB Public Library,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53966501,PAY-0197405901,PROFESSIONAL CONTRACTOR SUPPLY (PCS),957.6,957.6,0.0,2022-02-09,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53924401,PAY-0192184401,BlueTriton Brands Inc,67.39,67.39,0.0,2021-12-22,matched,DPH Public Health,Matched payment,No action required.
+54011001,PAY-0191407801,HILL-ROM COMPANY INC,540.53,557.25,16.72,2021-12-16,ledger_mismatch,DPH Public Health,Ledger update lag after payment clearance,Refresh ledger sync and confirm the final posted amount.
+53978001,PAY-0173338201,Re-Up Refills,3396.81,3996.25,599.44,2021-07-14,overpaid,HSA Human Services Agency,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53973401,PAY-0205622901,OFFICE DEPOT,10.27,10.27,0.0,2022-04-13,matched,DPH Public Health,Matched payment,No action required.
+53971201,PAY-0209879401,XEROX CORPORATION,138.35,138.35,0.0,2022-05-17,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53973601,PAY-0183351601,DISCOUNT BUILDERS SUPPLY,38.18,38.18,0.0,2021-10-08,matched,HOM Homelessness Services,Matched payment,No action required.
+53996201,PAY-0196797301,VRC Companies LLC dba Vital Records Cont,649.52,550.44,-99.08,2022-02-07,underpaid,DPH Public Health,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53950801,PAY-0175698801,US FOODS INC,7752.14,7752.14,0.0,2021-08-02,matched,DPH Public Health,Matched payment,No action required.
+53996401,PAY-0189138801,MACKAY METERS INC,861.12,729.76,-131.36,2021-12-03,underpaid,MTA Municipal Transprtn Agncy,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53950801,PAY-0178151501,US FOODS INC,1683.63,1683.63,0.0,2021-08-23,matched,DPH Public Health,Matched payment,No action required.
+54005901,PAY-0197689201,OFFICE DEPOT,45.34,45.34,0.0,2022-02-11,duplicate_suspected,DPH Public Health,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53944301,PAY-0197617901,M S C INDUSTRIAL SUPPLY COMPANY INC,37.31,37.31,0.0,2022-02-10,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53917701,PAY-0189407601,BlueTriton Brands Inc,179.19,179.19,0.0,2021-11-30,matched,DPH Public Health,Matched payment,No action required.
+53950801,PAY-0173462101,US FOODS INC,3930.24,3930.24,0.0,2021-07-15,matched,DPH Public Health,Matched payment,No action required.
+53951301,PAY-0188895301,VESTIS SERVICES LLC,21.95,21.95,0.0,2021-11-23,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53944301,PAY-0175883201,M S C INDUSTRIAL SUPPLY COMPANY INC,109.46,109.46,0.0,2021-08-03,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53970601,PAY-0207590901,SERRAMONTE FORD,433.67,433.67,0.0,2022-04-28,matched,AIR Airport Commission,Matched payment,No action required.
+53951101,PAY-0194720501,GRAINGER,87.62,87.62,0.0,2022-01-19,matched,LIB Public Library,Matched payment,No action required.
+53975701,PAY-0194648301,CENTER HARDWARE CO INC,54.95,64.65,9.7,2022-01-18,overpaid,REG Elections,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53979301,PAY-0205665101,LAW ENFORCEMENT PSYCHOLOGICAL SERVS INC,4717.5,5550.0,832.5,2022-05-20,overpaid,POL Police,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53971201,PAY-0209498501,XEROX CORPORATION,156.93,156.93,0.0,2022-05-13,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53917201,PAY-0186238101,VESTIS SERVICES LLC,24.25,24.25,0.0,2021-11-03,matched,AIR Airport Commission,Matched payment,No action required.
+54007101,PAY-0180517001,PARKMERCED OWNER LLC,2563.0,2563.0,0.0,2021-09-15,duplicate_suspected,HSA Human Services Agency,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53983401,PAY-0198725001,VERIZON WIRELESS,720.61,847.78,127.17,2022-02-18,overpaid,PUC Public Utilities Commsn,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53974801,PAY-0202221401,BlueTriton Brands Inc,3526.97,3526.97,0.0,2022-03-16,matched,DPH Public Health,Matched payment,No action required.
+53952601,PAY-0177763801,STAPLES BUSINESS ADVANTAGE,41.8,41.8,0.0,2021-08-18,matched,LIB Public Library,Matched payment,No action required.
+53922001,PAY-0180791401,Exelon Generation Company LLC,93750.0,93750.0,0.0,2021-09-16,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53921301,PAY-0181359801,INTERNATIONAL FIRE INC,141.24,141.24,0.0,2021-09-21,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53985701,PAY-0173719601,MEDLINE INDUSTRIES INC,86.9,102.24,15.34,2021-07-16,overpaid,DPH Public Health,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53953201,PAY-0186027601,CENTER HARDWARE CO INC,220.24,220.24,0.0,2021-11-02,matched,REC Recreation & Park Commsn,Matched payment,No action required.
+53919401,PAY-0177272401,CENTER HARDWARE CO INC,134.41,134.41,0.0,2021-08-13,matched,REC Recreation & Park Commsn,Matched payment,No action required.
+53972001,PAY-0204731401,CENTER HARDWARE CO INC,215.03,215.03,0.0,2022-04-05,matched,HOM Homelessness Services,Matched payment,No action required.
+53939401,PAY-0193833301,BOUND TREE MEDICAL LLC,291.26,291.26,0.0,2022-01-10,matched,FIR Fire Department,Matched payment,No action required.
+53964401,PAY-0192489301,SABAH INTERNATIONAL INC,284.0,284.0,0.0,2021-12-27,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53924401,PAY-0196409701,BlueTriton Brands Inc,7.34,7.34,0.0,2022-02-02,matched,DPH Public Health,Matched payment,No action required.
+53997001,PAY-0173723501,MEDLINE INDUSTRIES INC,47.01,39.84,-7.17,2021-07-16,underpaid,DPH Public Health,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53968901,PAY-0184770601,CITY AUTO SUPPLY,511.02,511.02,0.0,2021-10-21,matched,AIR Airport Commission,Matched payment,No action required.
+53991701,PAY-0175286701,MEDLINE INDUSTRIES INC,310.0,262.71,-47.29,2021-07-29,underpaid,DPH Public Health,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53921201,PAY-0194316001,OFFICE DEPOT,131.26,131.26,0.0,2022-01-14,matched,DPH Public Health,Matched payment,No action required.
+53950801,PAY-0183388801,US FOODS INC,1896.14,1896.14,0.0,2021-10-08,matched,DPH Public Health,Matched payment,No action required.
+53924401,PAY-0190056501,BlueTriton Brands Inc,41.03,41.03,0.0,2021-12-06,matched,DPH Public Health,Matched payment,No action required.
+53950801,PAY-0177480301,US FOODS INC,20932.62,20932.62,0.0,2021-08-17,matched,DPH Public Health,Matched payment,No action required.
+53942001,PAY-0193350901,LANGUAGELINE SOLUTIONS,759.6,759.6,0.0,2022-01-18,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53919901,PAY-0175442301,OFFICE RELIEF INC,176.13,176.13,0.0,2021-08-16,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53951701,PAY-0192374801,MILLS LAUNDERETTE & CLEANING CENTER,686.55,686.55,0.0,2021-12-23,matched,DPH Public Health,Matched payment,No action required.
+53971201,PAY-0185655301,XEROX CORPORATION,141.45,141.45,0.0,2021-10-28,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53986401,PAY-0205070301,INTERSTATE TRAFFIC CONTROL PRODUCTS INC,2358.97,1999.13,-359.84,2022-04-07,underpaid,AIR Airport Commission,Installment split created a short settlement,Match split installments against the original invoice value.
+53950801,PAY-0178150801,US FOODS INC,3285.32,3285.32,0.0,2021-08-23,matched,DPH Public Health,Matched payment,No action required.
+54008001,PAY-0193519701,SUPERIOR AUTOMATIC SPRINKLER CO,2583.0,2583.0,0.0,2022-01-06,duplicate_suspected,LIB Public Library,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53924401,PAY-0192263501,BlueTriton Brands Inc,41.03,41.03,0.0,2021-12-23,matched,DPH Public Health,Matched payment,No action required.
+53996701,PAY-0177764501,WESTERN STATES OIL,1848.09,1566.18,-281.91,2021-08-18,underpaid,FIR Fire Department,Installment split created a short settlement,Match split installments against the original invoice value.
+53924401,PAY-0196403901,BlueTriton Brands Inc,41.03,41.03,0.0,2022-02-02,matched,DPH Public Health,Matched payment,No action required.
+53974101,PAY-0184494701,M S C INDUSTRIAL SUPPLY COMPANY INC,2769.94,2769.94,0.0,2021-10-19,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53951301,PAY-0175868901,VESTIS SERVICES LLC,21.95,21.95,0.0,2021-08-03,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53996701,PAY-0214623101,WESTERN STATES OIL,6742.83,5714.26,-1028.57,2022-06-22,underpaid,FIR Fire Department,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53967201,PAY-0178568501,LAZ PARKING CALIFORNIA LLC,32759.53,32759.53,0.0,2021-09-13,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53996701,PAY-0179800801,WESTERN STATES OIL,4404.89,3732.96,-671.93,2021-09-08,underpaid,FIR Fire Department,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53926001,PAY-0193445801,COMCAST OF CALIFORNIA III INC,83.15,83.15,0.0,2022-01-06,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53952501,PAY-0175865501,VESTIS SERVICES LLC,156.71,156.71,0.0,2021-08-03,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53924401,PAY-0189978901,BlueTriton Brands Inc,12.99,12.99,0.0,2021-12-06,matched,DPH Public Health,Matched payment,No action required.
+53968901,PAY-0178851401,CITY AUTO SUPPLY,69.09,69.09,0.0,2021-08-30,matched,AIR Airport Commission,Matched payment,No action required.
+53950101,PAY-0190004701,UNITED SITE SERVICES OF CALIFORNIA INC,43.58,43.58,0.0,2021-12-06,matched,PRT Port,Matched payment,No action required.
+53972001,PAY-0181140101,CENTER HARDWARE CO INC,70.35,70.35,0.0,2021-09-21,matched,HOM Homelessness Services,Matched payment,No action required.
+53967601,PAY-0208068501,KONICA MINOLTA BUSINESS SOLUTNS USA INC,63.13,63.13,0.0,2022-05-03,matched,DPH Public Health,Matched payment,No action required.
+53960901,PAY-0189837801,CORE LINEN SERVICES INC.,24136.84,24136.84,0.0,2021-12-03,matched,DPH Public Health,Matched payment,No action required.
+53944201,PAY-0191126401,GRM INFORMATION MANAGEMENT SERVICES,64.2,64.2,0.0,2021-12-14,matched,DPH Public Health,Matched payment,No action required.
+53939401,PAY-0180166501,BOUND TREE MEDICAL LLC,10.07,10.07,0.0,2021-09-13,matched,FIR Fire Department,Matched payment,No action required.
+53915901,PAY-0192370801,OFFICE DEPOT,132.87,132.87,0.0,2021-12-23,matched,DPH Public Health,Matched payment,No action required.
+53965201,PAY-0179967101,GOLDEN GATE PETROLEUM,3101.67,3101.67,0.0,2021-09-09,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53943001,PAY-0175349701,GRAINGER,26.8,26.8,0.0,2021-07-29,matched,DPW Public Works,Matched payment,No action required.
+53969001,PAY-0185712901,XEROX CORPORATION,179.14,179.14,0.0,2021-10-29,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53914901,PAY-0185659101,KONICA MINOLTA BUSINESS SOLUTNS USA INC,934.22,934.22,0.0,2021-11-12,matched,DPH Public Health,Matched payment,No action required.
+53924401,PAY-0196316701,BlueTriton Brands Inc,26.35,26.35,0.0,2022-02-02,matched,DPH Public Health,Matched payment,No action required.
+53916101,PAY-0178768601,MEDLINE INDUSTRIES INC,54.7,54.7,0.0,2021-08-28,matched,DPH Public Health,Matched payment,No action required.
+53948201,PAY-0196509801,VESTIS SERVICES LLC,230.4,230.4,0.0,2022-02-11,matched,LIB Public Library,Matched payment,No action required.
+53996701,PAY-0183801401,WESTERN STATES OIL,4534.39,3842.7,-691.69,2021-10-13,underpaid,FIR Fire Department,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53968901,PAY-0207544401,CITY AUTO SUPPLY,59.85,59.85,0.0,2022-04-27,matched,AIR Airport Commission,Matched payment,No action required.
+53917201,PAY-0181279201,VESTIS SERVICES LLC,25.33,25.33,0.0,2021-09-21,matched,AIR Airport Commission,Matched payment,No action required.
+53924401,PAY-0200134001,BlueTriton Brands Inc,33.69,33.69,0.0,2022-02-28,matched,DPH Public Health,Matched payment,No action required.
+53973601,PAY-0195929601,DISCOUNT BUILDERS SUPPLY,130.22,130.22,0.0,2022-01-30,matched,HOM Homelessness Services,Matched payment,No action required.
+53924801,PAY-0182749901,FSP PPM MANAGEMENT LLC,111074.92,111074.92,0.0,2021-10-02,matched,AIR Airport Commission,Matched payment,No action required.
+54003901,PAY-0204646301,STERICYCLE INC,1513.67,1513.67,0.0,2022-04-04,duplicate_suspected,DPH Public Health,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+54000501,PAY-0213686801,WESTSIDE COMMUNITY MENTAL HEALTH CTR INC,52800.55,52800.55,0.0,2022-06-16,duplicate_suspected,DPH Public Health,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53934601,PAY-0182662101,GRAINGER,269.05,269.05,0.0,2021-10-01,matched,DPH Public Health,Matched payment,No action required.
+54006301,PAY-0191537901,STAPLES BUSINESS ADVANTAGE,138.28,138.28,0.0,2021-12-17,duplicate_suspected,LIB Public Library,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53948601,PAY-0173320501,BOSTON SCIENTIFIC CORP & SUBSIDIARIES,475.23,475.23,0.0,2021-07-13,matched,DPH Public Health,Matched payment,No action required.
+53995101,PAY-0174133101,AMERICAN DIESEL LLC,5372.96,4553.36,-819.6,2021-07-28,underpaid,MTA Municipal Transprtn Agncy,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53965001,PAY-0176157301,MANCO,2747.64,2747.64,0.0,2021-08-05,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+54007301,PAY-0176135401,PACIFIC MATERIALS HANDLING SOLUTIONS INC,250.99,250.99,0.0,2021-08-04,duplicate_suspected,DPH Public Health,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53951301,PAY-0186962901,VESTIS SERVICES LLC,151.61,151.61,0.0,2021-11-09,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53975701,PAY-0176865801,CENTER HARDWARE CO INC,380.19,380.19,0.0,2021-08-10,matched,REG Elections,Matched payment,No action required.
+53925701,PAY-0189908101,OFFICE DEPOT,13.77,13.77,0.0,2021-12-03,matched,DPH Public Health,Matched payment,No action required.
+53918101,PAY-0186032001,CENTER HARDWARE CO INC,129.51,129.51,0.0,2021-11-02,matched,REC Recreation & Park Commsn,Matched payment,No action required.
+53973601,PAY-0181856201,DISCOUNT BUILDERS SUPPLY,13.01,13.01,0.0,2021-09-24,matched,HOM Homelessness Services,Matched payment,No action required.
+54011001,PAY-0194252901,HILL-ROM COMPANY INC,4336.73,4470.86,134.13,2022-01-13,ledger_mismatch,DPH Public Health,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53968901,PAY-0197884401,CITY AUTO SUPPLY,500.3,500.3,0.0,2022-02-14,matched,AIR Airport Commission,Matched payment,No action required.
+53968901,PAY-0183520801,CITY AUTO SUPPLY,12.47,12.47,0.0,2021-10-09,matched,AIR Airport Commission,Matched payment,No action required.
+53970601,PAY-0200185601,SERRAMONTE FORD,1680.01,1680.01,0.0,2022-03-01,matched,AIR Airport Commission,Matched payment,No action required.
+53968001,PAY-0173342501,PFM Financial Advisors LLC,1760.0,1760.0,0.0,2021-07-14,matched,CII Commty Invest & Infrstrctr,Matched payment,No action required.
+53968901,PAY-0177268901,CITY AUTO SUPPLY,46.7,46.7,0.0,2021-08-13,matched,AIR Airport Commission,Matched payment,No action required.
+53939401,PAY-0183249801,BOUND TREE MEDICAL LLC,723.45,723.45,0.0,2021-10-07,matched,FIR Fire Department,Matched payment,No action required.
+53924401,PAY-0200148201,BlueTriton Brands Inc,52.71,52.71,0.0,2022-02-28,matched,DPH Public Health,Matched payment,No action required.
+53995301,PAY-0210881901,MT ST JOSEPH-ST ELIZABETH,18658.7,15812.46,-2846.24,2022-05-25,underpaid,DPH Public Health,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+54009801,PAY-0188707701,CITY AUTO SUPPLY,12.23,12.61,0.38,2021-11-23,ledger_mismatch,MTA Municipal Transprtn Agncy,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53971201,PAY-0190055801,XEROX CORPORATION,165.83,165.83,0.0,2021-12-06,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+54006901,PAY-0195763501,KONICA MINOLTA BUSINESS SOLUTNS USA INC,418.33,418.33,0.0,2022-01-27,duplicate_suspected,DPH Public Health,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53971201,PAY-0177607701,XEROX CORPORATION,146.99,146.99,0.0,2021-08-17,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53923001,PAY-0197408701,EMS BRUEL & KJAER INC,27666.67,27666.67,0.0,2022-02-09,matched,AIR Airport Commission,Matched payment,No action required.
+53968901,PAY-0209561901,CITY AUTO SUPPLY,1859.38,1859.38,0.0,2022-05-14,matched,AIR Airport Commission,Matched payment,No action required.
+53969601,PAY-0205051201,TFB GLOBAL LLC,2905.88,2905.88,0.0,2022-04-07,matched,AIR Airport Commission,Matched payment,No action required.
+53917201,PAY-0178848901,VESTIS SERVICES LLC,26.46,26.46,0.0,2021-08-30,matched,AIR Airport Commission,Matched payment,No action required.
+53975701,PAY-0189240201,CENTER HARDWARE CO INC,44.95,44.95,0.0,2021-11-29,matched,REG Elections,Matched payment,No action required.
+53934301,PAY-0173576501,MEDLINE INDUSTRIES INC,469.23,469.23,0.0,2021-07-15,matched,DPH Public Health,Matched payment,No action required.
+53952301,PAY-0181862101,FELTON INSTITUTE,14392.04,14392.04,0.0,2021-09-23,matched,DPH Public Health,Matched payment,No action required.
+53925201,PAY-0193992901,CAUSA JUSTA: JUST CAUSE,3481.86,3481.86,0.0,2022-01-11,matched,MYR Mayor,Matched payment,No action required.
+53973601,PAY-0211874801,DISCOUNT BUILDERS SUPPLY,70.75,70.75,0.0,2022-06-03,matched,HOM Homelessness Services,Matched payment,No action required.
+53968901,PAY-0178581701,CITY AUTO SUPPLY,673.45,673.45,0.0,2021-08-26,matched,AIR Airport Commission,Matched payment,No action required.
+53941601,PAY-0199413101,Ashley's Cafe,1200.0,1200.0,0.0,2022-03-03,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53968901,PAY-0191305301,CITY AUTO SUPPLY,276.61,276.61,0.0,2021-12-16,matched,AIR Airport Commission,Matched payment,No action required.
+53984401,PAY-0173717901,MEDLINE INDUSTRIES INC,72.79,85.64,12.85,2021-07-16,overpaid,DPH Public Health,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53996401,PAY-0207516201,MACKAY METERS INC,1735.12,1470.44,-264.68,2022-06-02,underpaid,MTA Municipal Transprtn Agncy,Installment split created a short settlement,Match split installments against the original invoice value.
+53968901,PAY-0191000601,CITY AUTO SUPPLY,21.13,21.13,0.0,2021-12-14,matched,AIR Airport Commission,Matched payment,No action required.
+53954201,PAY-0177292501,RAINBOW GROCERY COOPERATIVE INC,141.32,141.32,0.0,2021-08-13,matched,REC Recreation & Park Commsn,Matched payment,No action required.
+53950801,PAY-0185882001,US FOODS INC,961.12,961.12,0.0,2021-11-01,matched,DPH Public Health,Matched payment,No action required.
+54000501,PAY-0206009901,WESTSIDE COMMUNITY MENTAL HEALTH CTR INC,12636.25,12636.25,0.0,2022-04-14,duplicate_suspected,DPH Public Health,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53969001,PAY-0195830901,XEROX CORPORATION,158.93,158.93,0.0,2022-01-28,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53950801,PAY-0173463501,US FOODS INC,6260.35,6260.35,0.0,2021-07-15,matched,DPH Public Health,Matched payment,No action required.
+53918801,PAY-0178670001,CENTER HARDWARE CO INC,126.06,126.06,0.0,2021-08-27,matched,REC Recreation & Park Commsn,Matched payment,No action required.
+53969601,PAY-0198925901,TFB GLOBAL LLC,146.44,146.44,0.0,2022-02-22,matched,AIR Airport Commission,Matched payment,No action required.
+53996701,PAY-0196396701,WESTERN STATES OIL,3282.09,2781.43,-500.66,2022-02-03,underpaid,FIR Fire Department,Installment split created a short settlement,Match split installments against the original invoice value.
+54003001,PAY-0184058301,ALCON VISION LLC,1594.0,1594.0,0.0,2021-10-15,duplicate_suspected,DPH Public Health,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53972301,PAY-0178669001,XEROX CORPORATION,169.56,169.56,0.0,2021-08-27,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53933301,PAY-0194312001,STAPLES BUSINESS ADVANTAGE,48.44,48.44,0.0,2022-01-21,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+54011001,PAY-0183546701,HILL-ROM COMPANY INC,1089.48,1123.18,33.7,2021-10-20,ledger_mismatch,DPH Public Health,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+53996301,PAY-0178838501,MALTBY ELECTRIC SUPPLY CO INC,44142.38,37408.8,-6733.58,2021-08-30,underpaid,AIR Airport Commission,Installment split created a short settlement,Match split installments against the original invoice value.
+53949301,PAY-0195416101,OFFICE DEPOT,77.4,77.4,0.0,2022-01-25,matched,DPH Public Health,Matched payment,No action required.
+53965601,PAY-0189463101,CRESCO EQUIPMENT RENTALS,2061.5,2061.5,0.0,2021-12-01,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53918301,PAY-0185652201,KONICA MINOLTA BUSINESS SOLUTNS USA INC,6.37,6.37,0.0,2021-11-12,matched,DPH Public Health,Matched payment,No action required.
+54011001,PAY-0177732601,HILL-ROM COMPANY INC,510.85,526.65,15.8,2021-08-18,ledger_mismatch,DPH Public Health,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+53971201,PAY-0202868001,XEROX CORPORATION,137.5,137.5,0.0,2022-03-21,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53972001,PAY-0192341801,CENTER HARDWARE CO INC,64.86,64.86,0.0,2021-12-28,matched,HOM Homelessness Services,Matched payment,No action required.
+53970601,PAY-0193008101,SERRAMONTE FORD,231.05,231.05,0.0,2022-01-03,matched,AIR Airport Commission,Matched payment,No action required.
+53976701,PAY-0200173401,MAINLINE SECURITY INC.,13.85,16.29,2.44,2022-03-01,overpaid,HOM Homelessness Services,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53994301,PAY-0183294901,GRAINGER,1494.54,1266.56,-227.98,2021-10-07,underpaid,PUC Public Utilities Commsn,Installment split created a short settlement,Match split installments against the original invoice value.
+54000501,PAY-0194411001,WESTSIDE COMMUNITY MENTAL HEALTH CTR INC,90889.45,90889.45,0.0,2022-01-14,duplicate_suspected,DPH Public Health,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53931001,PAY-0185790701,KONICA MINOLTA BUSINESS SOLUTNS USA INC,46.65,46.65,0.0,2021-10-29,matched,DPH Public Health,Matched payment,No action required.
+54005801,PAY-0214564501,SHANTI PROJECT,35536.8,35536.8,0.0,2022-06-22,duplicate_suspected,DPH Public Health,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+54010701,PAY-0184128901,ON TARGET DELIVERY SERVICE,232.8,240.0,7.2,2021-10-15,ledger_mismatch,CII Commty Invest & Infrstrctr,Ledger update lag after payment clearance,Refresh ledger sync and confirm the final posted amount.
+53917201,PAY-0208915501,VESTIS SERVICES LLC,717.21,717.21,0.0,2022-05-10,matched,AIR Airport Commission,Matched payment,No action required.
+53948201,PAY-0199227201,VESTIS SERVICES LLC,272.4,272.4,0.0,2022-02-23,matched,LIB Public Library,Matched payment,No action required.
+53967201,PAY-0195527901,LAZ PARKING CALIFORNIA LLC,90084.97,90084.97,0.0,2022-02-08,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53975101,PAY-0178971601,THEISEN GLASS CO,1406.06,1406.06,0.0,2021-09-05,matched,HOM Homelessness Services,Matched payment,No action required.
+53943501,PAY-0206668201,HARRISON & BONINI INC,668.42,668.42,0.0,2022-04-20,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53924401,PAY-0178262701,BlueTriton Brands Inc,30.68,30.68,0.0,2021-08-23,matched,DPH Public Health,Matched payment,No action required.
+53952501,PAY-0205728001,VESTIS SERVICES LLC,67.37,67.37,0.0,2022-04-14,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53924401,PAY-0190089601,BlueTriton Brands Inc,8.67,8.67,0.0,2021-12-06,matched,DPH Public Health,Matched payment,No action required.
+53921301,PAY-0207349501,INTERNATIONAL FIRE INC,467.47,467.47,0.0,2022-04-26,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53970601,PAY-0202233401,SERRAMONTE FORD,58.17,58.17,0.0,2022-03-16,matched,AIR Airport Commission,Matched payment,No action required.
+53925701,PAY-0177776301,OFFICE DEPOT,1669.85,1669.85,0.0,2021-08-18,matched,DPH Public Health,Matched payment,No action required.
+53917701,PAY-0177019601,BlueTriton Brands Inc,144.17,144.17,0.0,2021-08-11,matched,DPH Public Health,Matched payment,No action required.
+53971001,PAY-0191237901,SAN FRANCISCO PUBLIC HEALTH FOUNDATION,21177.63,21177.63,0.0,2021-12-17,matched,DPH Public Health,Matched payment,No action required.
+53975701,PAY-0189410501,CENTER HARDWARE CO INC,12.22,12.22,0.0,2021-11-30,matched,REG Elections,Matched payment,No action required.
+54009301,PAY-0196834701,KONICA MINOLTA BUSINESS SOLUTNS USA INC,477.63,492.4,14.77,2022-02-07,ledger_mismatch,DPH Public Health,Ledger update lag after payment clearance,Refresh ledger sync and confirm the final posted amount.
+53993201,PAY-0173699401,MEDLINE INDUSTRIES INC,1870.71,1585.35,-285.36,2021-07-16,underpaid,DPH Public Health,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53996701,PAY-0187887701,WESTERN STATES OIL,4766.87,4039.72,-727.15,2021-11-17,underpaid,FIR Fire Department,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53937601,PAY-0185778401,BlueTriton Brands Inc,4.33,4.33,0.0,2021-10-29,matched,DPH Public Health,Matched payment,No action required.
+53952601,PAY-0189726001,STAPLES BUSINESS ADVANTAGE,458.06,458.06,0.0,2021-12-02,matched,LIB Public Library,Matched payment,No action required.
+53957501,PAY-0176250001,GEN-PROBE SLS & SVC INC(SUB HOLOGIC INC),68433.75,68433.75,0.0,2021-08-05,matched,DPH Public Health,Matched payment,No action required.
+53920101,PAY-0199226601,STAPLES BUSINESS ADVANTAGE,1.34,1.34,0.0,2022-02-23,matched,ADM GSA - City Administrator,Matched payment,No action required.
+54009801,PAY-0213571401,CITY AUTO SUPPLY,11.44,11.79,0.35,2022-06-22,ledger_mismatch,MTA Municipal Transprtn Agncy,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+54000501,PAY-0198550901,WESTSIDE COMMUNITY MENTAL HEALTH CTR INC,46928.14,46928.14,0.0,2022-02-17,duplicate_suspected,DPH Public Health,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53951301,PAY-0198425301,VESTIS SERVICES LLC,151.61,151.61,0.0,2022-02-16,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53996701,PAY-0207548801,WESTERN STATES OIL,3428.02,2905.1,-522.92,2022-04-27,underpaid,FIR Fire Department,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53999101,PAY-0173722701,MEDLINE INDUSTRIES INC,135.72,115.02,-20.7,2021-07-16,underpaid,DPH Public Health,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53952301,PAY-0183996901,FELTON INSTITUTE,13225.46,13225.46,0.0,2021-10-14,matched,DPH Public Health,Matched payment,No action required.
+53939401,PAY-0179059001,BOUND TREE MEDICAL LLC,3571.7,3571.7,0.0,2021-08-31,matched,FIR Fire Department,Matched payment,No action required.
+53934601,PAY-0210848701,GRAINGER,533.68,533.68,0.0,2022-05-24,matched,DPH Public Health,Matched payment,No action required.
+53971601,PAY-0181486001,UNION SERVICE COMPANY INC,1700.0,1700.0,0.0,2021-09-22,matched,LIB Public Library,Matched payment,No action required.
+53951301,PAY-0186224801,VESTIS SERVICES LLC,92.61,92.61,0.0,2021-11-03,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53976301,PAY-0179265901,CENTER HARDWARE CO INC,330.78,389.15,58.37,2021-09-02,overpaid,REC Recreation & Park Commsn,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53976701,PAY-0181850601,MAINLINE SECURITY INC.,41.0,48.23,7.23,2021-09-24,overpaid,HOM Homelessness Services,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53980101,PAY-0186632701,RUBECON GENERAL CONTRACTING INC,49300.0,58000.0,8700.0,2021-11-05,overpaid,DPH Public Health,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53996401,PAY-0200442501,MACKAY METERS INC,1216.4,1030.85,-185.55,2022-03-10,underpaid,MTA Municipal Transprtn Agncy,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+54009801,PAY-0211402901,CITY AUTO SUPPLY,146.31,150.83,4.52,2022-06-22,ledger_mismatch,MTA Municipal Transprtn Agncy,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53925801,PAY-0209874601,LANGUAGELINE SOLUTIONS,412.98,412.98,0.0,2022-05-17,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53980001,PAY-0203864301,Mansfield Lierly and Associates,318.75,375.0,56.25,2022-03-28,overpaid,POL Police,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53928101,PAY-0181558201,XEROX CORPORATION,255.86,255.86,0.0,2021-09-23,matched,HSA Human Services Agency,Matched payment,No action required.
+53952501,PAY-0184708601,VESTIS SERVICES LLC,14.9,14.9,0.0,2021-10-20,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53950801,PAY-0184257801,US FOODS INC,32.47,32.47,0.0,2021-10-18,matched,DPH Public Health,Matched payment,No action required.
+53959901,PAY-0175717301,TERUMO MEDICAL CORP,6888.0,6888.0,0.0,2021-08-02,matched,DPH Public Health,Matched payment,No action required.
+53931201,PAY-0175834201,Angela Han,18000.0,18000.0,0.0,2021-08-03,matched,ART Arts Commission,Matched payment,No action required.
+53920101,PAY-0186364101,STAPLES BUSINESS ADVANTAGE,74.63,74.63,0.0,2021-11-04,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53918501,PAY-0180010601,KONICA MINOLTA BUSINESS SOLUTNS USA INC,418.33,418.33,0.0,2021-09-10,matched,DPH Public Health,Matched payment,No action required.
+53954701,PAY-0176455701,MEDLINE INDUSTRIES INC,51.37,51.37,0.0,2021-08-06,matched,DPH Public Health,Matched payment,No action required.
+54001801,PAY-0173822401,CARDINALHEALTH MEDICAL PRODUCTS & SVCS,92.61,92.61,0.0,2021-07-19,duplicate_suspected,DPH Public Health,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53975701,PAY-0209295801,CENTER HARDWARE CO INC,1321.31,1554.48,233.17,2022-05-12,overpaid,REG Elections,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53953101,PAY-0209236801,XEROX CORPORATION,126.21,126.21,0.0,2022-05-12,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53944301,PAY-0207220101,M S C INDUSTRIAL SUPPLY COMPANY INC,497.73,497.73,0.0,2022-04-25,matched,ADM GSA - City Administrator,Matched payment,No action required.
+54000501,PAY-0179999301,WESTSIDE COMMUNITY MENTAL HEALTH CTR INC,2902.51,2902.51,0.0,2021-09-10,duplicate_suspected,DPH Public Health,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53921201,PAY-0186973701,OFFICE DEPOT,286.88,286.88,0.0,2021-11-10,matched,DPH Public Health,Matched payment,No action required.
+53972001,PAY-0176730701,CENTER HARDWARE CO INC,45.03,45.03,0.0,2021-08-10,matched,HOM Homelessness Services,Matched payment,No action required.
+53951801,PAY-0191876101,Acme Workwear,1671.26,1671.26,0.0,2021-12-21,matched,DPH Public Health,Matched payment,No action required.
+53952501,PAY-0174441901,VESTIS SERVICES LLC,14.9,14.9,0.0,2021-07-23,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53966001,PAY-0191239301,Minilab Factory USA LLC,579.0,579.0,0.0,2021-12-15,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53975701,PAY-0179299301,CENTER HARDWARE CO INC,602.87,602.87,0.0,2021-09-02,matched,REG Elections,Matched payment,No action required.
+53918301,PAY-0198817401,KONICA MINOLTA BUSINESS SOLUTNS USA INC,11.84,11.84,0.0,2022-02-22,matched,DPH Public Health,Matched payment,No action required.
+53983701,PAY-0198632201,VERIZON WIRELESS,309.95,364.65,54.7,2022-02-17,overpaid,PUC Public Utilities Commsn,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+54008201,PAY-0192092001,MISSION LINEN SUPPLY,323.32,333.32,10.0,2021-12-22,ledger_mismatch,DPH Public Health,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53967001,PAY-0180498701,RECOLOGY SUNSET SCAVENGER COMPANY,112.47,112.47,0.0,2021-09-15,matched,POL Police,Matched payment,No action required.
+54007301,PAY-0209980201,PACIFIC MATERIALS HANDLING SOLUTIONS INC,231.94,231.94,0.0,2022-05-18,duplicate_suspected,DPH Public Health,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53988901,PAY-0192666301,STAPLES BUSINESS ADVANTAGE,23.45,19.87,-3.58,2021-12-28,underpaid,REC Recreation & Park Commsn,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53975701,PAY-0210593201,CENTER HARDWARE CO INC,23.08,27.15,4.07,2022-05-23,overpaid,REG Elections,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53942001,PAY-0179748801,LANGUAGELINE SOLUTIONS,595.14,595.14,0.0,2021-09-17,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53939401,PAY-0182369701,BOUND TREE MEDICAL LLC,2922.12,2922.12,0.0,2021-09-28,matched,FIR Fire Department,Matched payment,No action required.
+53973701,PAY-0212761001,OFFICE DEPOT,355.69,355.69,0.0,2022-06-28,matched,DPH Public Health,Matched payment,No action required.
+53952501,PAY-0200482201,VESTIS SERVICES LLC,14.9,14.9,0.0,2022-03-07,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53968901,PAY-0177266801,CITY AUTO SUPPLY,60.0,60.0,0.0,2021-08-13,matched,AIR Airport Commission,Matched payment,No action required.
+53922601,PAY-0200079101,Morgan Stanley Capital Group Inc.,326604.0,326604.0,0.0,2022-03-01,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53972401,PAY-0184139701,INTERSTATE TRAFFIC CONTROL PRODUCTS INC,786.13,786.13,0.0,2021-10-15,matched,AIR Airport Commission,Matched payment,No action required.
+53921201,PAY-0209647701,OFFICE DEPOT,567.12,567.12,0.0,2022-05-16,matched,DPH Public Health,Matched payment,No action required.
+53997701,PAY-0173721101,MEDLINE INDUSTRIES INC,130.35,110.47,-19.88,2021-07-16,underpaid,DPH Public Health,Installment split created a short settlement,Match split installments against the original invoice value.
+53939401,PAY-0174790001,BOUND TREE MEDICAL LLC,398.39,398.39,0.0,2021-07-26,matched,FIR Fire Department,Matched payment,No action required.
+53952601,PAY-0195646801,STAPLES BUSINESS ADVANTAGE,13.37,13.37,0.0,2022-01-27,matched,LIB Public Library,Matched payment,No action required.
+53977501,PAY-0183855001,M LEE CORPORATION,4740.96,5577.6,836.64,2021-10-14,overpaid,DPW Public Works,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53983701,PAY-0180838901,VERIZON WIRELESS,693.97,816.43,122.46,2021-09-17,overpaid,PUC Public Utilities Commsn,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53944801,PAY-0173580901,MEDLINE INDUSTRIES INC,118.57,118.57,0.0,2021-07-15,matched,DPH Public Health,Matched payment,No action required.
+53992201,PAY-0173792001,MEDLINE INDUSTRIES INC,3174.96,2690.64,-484.32,2021-07-17,underpaid,DPH Public Health,Installment split created a short settlement,Match split installments against the original invoice value.
+53969001,PAY-0200355701,XEROX CORPORATION,135.71,135.71,0.0,2022-03-07,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53968901,PAY-0209821401,CITY AUTO SUPPLY,78.93,78.93,0.0,2022-05-17,matched,AIR Airport Commission,Matched payment,No action required.
+53928001,PAY-0209952501,SIGNATURE MARKETING,835.73,835.73,0.0,2022-05-18,matched,AIR Airport Commission,Matched payment,No action required.
+53971801,PAY-0183393501,INTERNATIONAL EFFECTIVENESS CENTERS,765.0,765.0,0.0,2021-10-08,matched,POL Police,Matched payment,No action required.
+53921301,PAY-0176011601,INTERNATIONAL FIRE INC,24.21,24.21,0.0,2021-08-04,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53995901,PAY-0189481201,SHRED WORKS,134.52,114.0,-20.52,2021-12-01,underpaid,CAT City Attorney,Installment split created a short settlement,Match split installments against the original invoice value.
+53968901,PAY-0198915501,CITY AUTO SUPPLY,377.21,377.21,0.0,2022-02-22,matched,AIR Airport Commission,Matched payment,No action required.
+53973601,PAY-0210715601,DISCOUNT BUILDERS SUPPLY,97.74,97.74,0.0,2022-05-24,matched,HOM Homelessness Services,Matched payment,No action required.
+53967201,PAY-0193078501,LAZ PARKING CALIFORNIA LLC,28562.18,28562.18,0.0,2022-01-10,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53968901,PAY-0178578001,CITY AUTO SUPPLY,28.88,28.88,0.0,2021-08-26,matched,AIR Airport Commission,Matched payment,No action required.
+53969001,PAY-0177523001,XEROX CORPORATION,133.46,133.46,0.0,2021-08-17,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53950801,PAY-0176111401,US FOODS INC,426.09,426.09,0.0,2021-08-04,matched,DPH Public Health,Matched payment,No action required.
+53975701,PAY-0197429901,CENTER HARDWARE CO INC,13.29,15.63,2.34,2022-02-09,overpaid,REG Elections,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53939301,PAY-0174876101,MEDLINE INDUSTRIES INC,320.97,320.97,0.0,2021-07-26,matched,DPH Public Health,Matched payment,No action required.
+53917201,PAY-0209907901,VESTIS SERVICES LLC,22.18,22.18,0.0,2022-05-18,matched,AIR Airport Commission,Matched payment,No action required.
+53939401,PAY-0196407801,BOUND TREE MEDICAL LLC,52.95,52.95,0.0,2022-02-03,matched,FIR Fire Department,Matched payment,No action required.
+54008301,PAY-0197460901,SAN MATEO COUNTY MOSQUITO & VECTOR CONTR,1659.94,1711.28,51.34,2022-02-10,ledger_mismatch,AIR Airport Commission,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53979001,PAY-0194286301,AON RISK INSURANCE SERVICES WEST INC,11687.5,13750.0,2062.5,2022-01-13,overpaid,ADM GSA - City Administrator,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53948201,PAY-0180507601,VESTIS SERVICES LLC,230.4,230.4,0.0,2021-09-15,matched,LIB Public Library,Matched payment,No action required.
+53983701,PAY-0198712101,VERIZON WIRELESS,36.92,43.43,6.51,2022-02-18,overpaid,PUC Public Utilities Commsn,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53920801,PAY-0184297601,OFFICE DEPOT,68.56,68.56,0.0,2021-10-18,matched,DPH Public Health,Matched payment,No action required.
+53952501,PAY-0197227201,VESTIS SERVICES LLC,164.16,164.16,0.0,2022-02-08,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53944301,PAY-0193675901,M S C INDUSTRIAL SUPPLY COMPANY INC,124.48,124.48,0.0,2022-01-07,matched,ADM GSA - City Administrator,Matched payment,No action required.
+54009801,PAY-0183606001,CITY AUTO SUPPLY,3.37,3.47,0.1,2021-10-15,ledger_mismatch,MTA Municipal Transprtn Agncy,Ledger update lag after payment clearance,Refresh ledger sync and confirm the final posted amount.
+53949301,PAY-0210830801,OFFICE DEPOT,204.98,204.98,0.0,2022-05-24,matched,DPH Public Health,Matched payment,No action required.
+53924401,PAY-0187611201,BlueTriton Brands Inc,40.82,40.82,0.0,2021-11-16,matched,DPH Public Health,Matched payment,No action required.
+53975701,PAY-0183855601,CENTER HARDWARE CO INC,1591.88,1591.88,0.0,2021-10-13,matched,REG Elections,Matched payment,No action required.
+53952601,PAY-0182642901,STAPLES BUSINESS ADVANTAGE,201.71,201.71,0.0,2021-10-01,matched,LIB Public Library,Matched payment,No action required.
+53919401,PAY-0183592101,CENTER HARDWARE CO INC,23.41,23.41,0.0,2021-10-12,matched,REC Recreation & Park Commsn,Matched payment,No action required.
+53970601,PAY-0186359401,SERRAMONTE FORD,266.81,266.81,0.0,2021-11-04,matched,AIR Airport Commission,Matched payment,No action required.
+53943501,PAY-0211045001,HARRISON & BONINI INC,201.98,201.98,0.0,2022-05-26,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53975701,PAY-0207817801,CENTER HARDWARE CO INC,22.89,26.93,4.04,2022-04-29,overpaid,REG Elections,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53921201,PAY-0195669801,OFFICE DEPOT,201.31,201.31,0.0,2022-02-01,matched,DPH Public Health,Matched payment,No action required.
+53986401,PAY-0198521501,INTERSTATE TRAFFIC CONTROL PRODUCTS INC,2023.7,1715.0,-308.7,2022-02-17,underpaid,AIR Airport Commission,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53968901,PAY-0192201801,CITY AUTO SUPPLY,6.73,6.73,0.0,2021-12-23,matched,AIR Airport Commission,Matched payment,No action required.
+53975501,PAY-0178555201,BlueTriton Brands Inc,310.94,310.94,0.0,2021-08-26,matched,DPH Public Health,Matched payment,No action required.
+53972001,PAY-0211881101,CENTER HARDWARE CO INC,95.77,95.77,0.0,2022-06-05,matched,HOM Homelessness Services,Matched payment,No action required.
+53951901,PAY-0204948601,XEROX CORPORATION,47.34,47.34,0.0,2022-04-06,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53973601,PAY-0178268001,DISCOUNT BUILDERS SUPPLY,5.75,5.75,0.0,2021-08-31,matched,HOM Homelessness Services,Matched payment,No action required.
+53943501,PAY-0175350001,HARRISON & BONINI INC,167.81,167.81,0.0,2021-07-29,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53918802,PAY-0196562601,CENTER HARDWARE CO INC,130.34,130.34,0.0,2022-02-03,matched,REC Recreation & Park Commsn,Matched payment,No action required.
+53981901,PAY-0177798201,R & B COMPANY,807.9,950.47,142.57,2021-08-18,overpaid,PUC Public Utilities Commsn,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+54006301,PAY-0195633701,STAPLES BUSINESS ADVANTAGE,10.35,10.35,0.0,2022-01-27,duplicate_suspected,LIB Public Library,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53964201,PAY-0182461201,WESTERN STATES OIL,7292.16,7292.16,0.0,2021-09-29,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53988401,PAY-0173724301,MEDLINE INDUSTRIES INC,408.76,346.41,-62.35,2021-07-16,underpaid,DPH Public Health,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53939401,PAY-0190606701,BOUND TREE MEDICAL LLC,458.96,458.96,0.0,2021-12-09,matched,FIR Fire Department,Matched payment,No action required.
+53964201,PAY-0191257401,WESTERN STATES OIL,7476.33,7476.33,0.0,2021-12-15,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53996701,PAY-0209178701,WESTERN STATES OIL,5512.45,4671.57,-840.88,2022-05-11,underpaid,FIR Fire Department,Installment split created a short settlement,Match split installments against the original invoice value.
+54005901,PAY-0173752001,OFFICE DEPOT,30.91,30.91,0.0,2021-08-02,duplicate_suspected,DPH Public Health,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53976001,PAY-0176680301,Jimmie Muscatello's,1023.05,1203.59,180.54,2021-08-09,overpaid,POL Police,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53950101,PAY-0206967901,UNITED SITE SERVICES OF CALIFORNIA INC,73.58,73.58,0.0,2022-04-22,matched,PRT Port,Matched payment,No action required.
+54001201,PAY-0174619401,ABBOTT LABORATORIES INC,635.61,635.61,0.0,2021-07-23,duplicate_suspected,DPH Public Health,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53983501,PAY-0200863201,SHANTI PROJECT,10435.36,12276.9,1841.54,2022-03-04,overpaid,DPH Public Health,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53956301,PAY-0176618301,AESCULAP INC,2714.36,2714.36,0.0,2022-03-28,matched,DPH Public Health,Matched payment,No action required.
+54009801,PAY-0186910501,CITY AUTO SUPPLY,12.23,12.61,0.38,2021-11-17,ledger_mismatch,MTA Municipal Transprtn Agncy,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53974801,PAY-0189238001,BlueTriton Brands Inc,3716.38,3716.38,0.0,2021-11-29,matched,DPH Public Health,Matched payment,No action required.
+53921301,PAY-0214506701,INTERNATIONAL FIRE INC,145.23,145.23,0.0,2022-06-21,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53951301,PAY-0208006401,VESTIS SERVICES LLC,92.61,92.61,0.0,2022-05-02,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53947801,PAY-0180905301,MAINLINE SECURITY INC.,254.95,254.95,0.0,2021-09-17,matched,DPH Public Health,Matched payment,No action required.
+53975701,PAY-0182929201,CENTER HARDWARE CO INC,654.45,654.45,0.0,2021-10-05,matched,REG Elections,Matched payment,No action required.
+53944301,PAY-0203059401,M S C INDUSTRIAL SUPPLY COMPANY INC,88.2,88.2,0.0,2022-03-22,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53964201,PAY-0204951601,WESTERN STATES OIL,9843.45,9843.45,0.0,2022-04-06,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53951301,PAY-0190400801,VESTIS SERVICES LLC,80.85,80.85,0.0,2021-12-08,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53964201,PAY-0174615001,WESTERN STATES OIL,7300.74,7300.74,0.0,2021-07-23,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53939401,PAY-0174874901,BOUND TREE MEDICAL LLC,5518.28,5518.28,0.0,2021-07-26,matched,FIR Fire Department,Matched payment,No action required.
+53968901,PAY-0206421801,CITY AUTO SUPPLY,96.44,96.44,0.0,2022-04-19,matched,AIR Airport Commission,Matched payment,No action required.
+54008201,PAY-0182786201,MISSION LINEN SUPPLY,518.48,534.52,16.04,2021-10-04,ledger_mismatch,DPH Public Health,Ledger update lag after payment clearance,Refresh ledger sync and confirm the final posted amount.
+53939401,PAY-0175718801,BOUND TREE MEDICAL LLC,1665.98,1665.98,0.0,2021-08-02,matched,FIR Fire Department,Matched payment,No action required.
+53918301,PAY-0185653601,KONICA MINOLTA BUSINESS SOLUTNS USA INC,141.23,141.23,0.0,2021-11-12,matched,DPH Public Health,Matched payment,No action required.
+53920301,PAY-0184112201,HARRISON & BONINI INC,299.86,299.86,0.0,2021-10-21,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53996701,PAY-0176069901,WESTERN STATES OIL,2156.83,1827.82,-329.01,2021-08-04,underpaid,FIR Fire Department,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53937601,PAY-0212100301,BlueTriton Brands Inc,48.37,48.37,0.0,2022-06-06,matched,DPH Public Health,Matched payment,No action required.
+53986401,PAY-0211507901,INTERSTATE TRAFFIC CONTROL PRODUCTS INC,4792.09,4061.09,-731.0,2022-05-31,underpaid,AIR Airport Commission,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53944301,PAY-0182171401,M S C INDUSTRIAL SUPPLY COMPANY INC,1780.58,1780.58,0.0,2021-09-27,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53953601,PAY-0191106401,PARKMERCED OWNER LLC,3318.26,3318.26,0.0,2021-12-14,matched,HSA Human Services Agency,Matched payment,No action required.
+53944301,PAY-0203741201,M S C INDUSTRIAL SUPPLY COMPANY INC,80.66,80.66,0.0,2022-03-26,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53940401,PAY-0173794601,MEDLINE INDUSTRIES INC,23.48,23.48,0.0,2021-07-17,matched,DPH Public Health,Matched payment,No action required.
+53971601,PAY-0185417201,UNION SERVICE COMPANY INC,850.0,850.0,0.0,2021-10-26,matched,LIB Public Library,Matched payment,No action required.
+54007301,PAY-0194796701,PACIFIC MATERIALS HANDLING SOLUTIONS INC,237.15,237.15,0.0,2022-01-20,duplicate_suspected,DPH Public Health,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53924301,PAY-0184390301,COMCAST OF CALIFORNIA III INC,260.7,260.7,0.0,2021-10-19,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53939401,PAY-0186295701,BOUND TREE MEDICAL LLC,129.34,129.34,0.0,2021-11-03,matched,FIR Fire Department,Matched payment,No action required.
+53950801,PAY-0177031601,US FOODS INC,1787.47,1787.47,0.0,2021-08-12,matched,DPH Public Health,Matched payment,No action required.
+54009801,PAY-0194059701,CITY AUTO SUPPLY,35.38,36.47,1.09,2022-01-13,ledger_mismatch,MTA Municipal Transprtn Agncy,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+53992701,PAY-0174586301,T & S TRADING & ENTERPRISE CO,559.72,474.34,-85.38,2021-07-22,underpaid,DT  GSA - Technology,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53950801,PAY-0179684701,US FOODS INC,723.13,723.13,0.0,2021-09-07,matched,DPH Public Health,Matched payment,No action required.
+53968901,PAY-0201297801,CITY AUTO SUPPLY,178.26,178.26,0.0,2022-03-09,matched,AIR Airport Commission,Matched payment,No action required.
+53995701,PAY-0189147001,PAYBYPHONE TECHNOLOGIES INC,106.58,90.32,-16.26,2021-12-02,underpaid,MTA Municipal Transprtn Agncy,Installment split created a short settlement,Match split installments against the original invoice value.
+53969601,PAY-0193010701,TFB GLOBAL LLC,11380.23,11380.23,0.0,2022-01-03,matched,AIR Airport Commission,Matched payment,No action required.
+53927801,PAY-0215106301,GRAINGER,169.26,169.26,0.0,2022-06-24,matched,DPH Public Health,Matched payment,No action required.
+53921301,PAY-0185654701,INTERNATIONAL FIRE INC,333.3,333.3,0.0,2021-10-28,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53976101,PAY-0193536301,NATIONAL UTILITY SALES CORP,8395.68,9877.27,1481.59,2022-01-06,overpaid,PRT Port,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53915901,PAY-0189209501,OFFICE DEPOT,57.84,57.84,0.0,2021-11-29,matched,DPH Public Health,Matched payment,No action required.
+53974201,PAY-0206161501,TALAS,573.59,573.59,0.0,2022-04-15,matched,AIR Airport Commission,Matched payment,No action required.
+53922101,PAY-0198566401,OFFICE DEPOT,47.77,47.77,0.0,2022-02-17,matched,DPH Public Health,Matched payment,No action required.
+53996701,PAY-0176101901,WESTERN STATES OIL,5186.23,4395.11,-791.12,2021-08-04,underpaid,FIR Fire Department,Installment split created a short settlement,Match split installments against the original invoice value.
+53971601,PAY-0178552901,UNION SERVICE COMPANY INC,2200.0,2200.0,0.0,2021-08-26,matched,LIB Public Library,Matched payment,No action required.
+54006301,PAY-0188314401,STAPLES BUSINESS ADVANTAGE,850.13,850.13,0.0,2021-11-19,duplicate_suspected,LIB Public Library,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+54007201,PAY-0188716701,CORELOGIC SOLUTIONS LLC,166.67,166.67,0.0,2021-11-22,duplicate_suspected,CII Commty Invest & Infrstrctr,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53952501,PAY-0202290801,VESTIS SERVICES LLC,660.92,660.92,0.0,2022-03-22,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53921501,PAY-0204315601,LIVABLE CITY,14887.16,14887.16,0.0,2022-04-08,matched,DPH Public Health,Matched payment,No action required.
+53914901,PAY-0207432601,KONICA MINOLTA BUSINESS SOLUTNS USA INC,61.88,61.88,0.0,2022-04-27,matched,DPH Public Health,Matched payment,No action required.
+54000501,PAY-0184372301,WESTSIDE COMMUNITY MENTAL HEALTH CTR INC,3107.85,3107.85,0.0,2021-10-19,duplicate_suspected,DPH Public Health,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53943501,PAY-0206671101,HARRISON & BONINI INC,2769.94,2769.94,0.0,2022-04-20,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53972801,PAY-0201098001,B B I ENGINEERING INC,371.71,371.71,0.0,2022-03-08,matched,LIB Public Library,Matched payment,No action required.
+53918301,PAY-0206548001,KONICA MINOLTA BUSINESS SOLUTNS USA INC,20.58,20.58,0.0,2022-04-21,matched,DPH Public Health,Matched payment,No action required.
+53983501,PAY-0207086501,SHANTI PROJECT,272.54,320.64,48.1,2022-04-29,overpaid,DPH Public Health,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53952501,PAY-0196255501,VESTIS SERVICES LLC,26.61,26.61,0.0,2022-02-03,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53949601,PAY-0174219501,MEDLINE INDUSTRIES INC,89.22,89.22,0.0,2021-07-21,matched,DPH Public Health,Matched payment,No action required.
+53950801,PAY-0173496301,US FOODS INC,2424.29,2424.29,0.0,2021-07-15,matched,DPH Public Health,Matched payment,No action required.
+53939401,PAY-0192493701,BOUND TREE MEDICAL LLC,13337.43,13337.43,0.0,2021-12-27,matched,FIR Fire Department,Matched payment,No action required.
+54008201,PAY-0185189001,MISSION LINEN SUPPLY,391.71,403.82,12.11,2021-10-25,ledger_mismatch,DPH Public Health,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53969001,PAY-0202936101,XEROX CORPORATION,139.25,139.25,0.0,2022-03-21,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53920101,PAY-0211621701,STAPLES BUSINESS ADVANTAGE,68.54,68.54,0.0,2022-06-01,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53921301,PAY-0192834201,INTERNATIONAL FIRE INC,508.31,508.31,0.0,2021-12-30,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53976001,PAY-0173862301,Jimmie Muscatello's,511.91,602.25,90.34,2021-07-22,overpaid,POL Police,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53952501,PAY-0204063701,VESTIS SERVICES LLC,664.69,664.69,0.0,2022-03-29,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+54011001,PAY-0202029001,HILL-ROM COMPANY INC,1053.02,1085.59,32.57,2022-03-15,ledger_mismatch,DPH Public Health,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53967201,PAY-0209046601,LAZ PARKING CALIFORNIA LLC,134005.04,134005.04,0.0,2022-05-18,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53920801,PAY-0204039501,OFFICE DEPOT,21.48,21.48,0.0,2022-03-29,matched,DPH Public Health,Matched payment,No action required.
+53950801,PAY-0173462801,US FOODS INC,1172.87,1172.87,0.0,2021-07-15,matched,DPH Public Health,Matched payment,No action required.
+53917401,PAY-0190328601,A&A Health Services LLC,124000.0,124000.0,0.0,2021-12-08,matched,DPH Public Health,Matched payment,No action required.
+53967201,PAY-0183278201,LAZ PARKING CALIFORNIA LLC,50743.87,50743.87,0.0,2021-10-12,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53968901,PAY-0178588301,CITY AUTO SUPPLY,67.13,67.13,0.0,2021-08-26,matched,AIR Airport Commission,Matched payment,No action required.
+53950801,PAY-0180889801,US FOODS INC,490.2,490.2,0.0,2021-09-17,matched,DPH Public Health,Matched payment,No action required.
+53920701,PAY-0208816601,SIEMENS INDUSTRY INC,5348.0,5348.0,0.0,2022-05-09,matched,LIB Public Library,Matched payment,No action required.
+54004701,PAY-0197466701,PARKMERCED OWNER LLC,2455.0,2455.0,0.0,2022-02-11,duplicate_suspected,HSA Human Services Agency,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+54002401,PAY-0175825301,DIAGNOSTIC MEDICAL,429.0,429.0,0.0,2021-08-03,duplicate_suspected,DPH Public Health,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53951301,PAY-0194015201,VESTIS SERVICES LLC,92.61,92.61,0.0,2022-01-12,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53922801,PAY-0176427201,OhmConnect Inc,40200.0,40200.0,0.0,2021-08-26,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53952501,PAY-0178504201,VESTIS SERVICES LLC,14.9,14.9,0.0,2021-08-25,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53921601,PAY-0194029001,City of Roseville,83070.0,83070.0,0.0,2022-01-12,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+54009801,PAY-0179763901,CITY AUTO SUPPLY,17.07,17.6,0.53,2021-09-15,ledger_mismatch,MTA Municipal Transprtn Agncy,Ledger update lag after payment clearance,Refresh ledger sync and confirm the final posted amount.
+53965601,PAY-0202524001,CRESCO EQUIPMENT RENTALS,2063.88,2063.88,0.0,2022-03-17,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+54007301,PAY-0190112001,PACIFIC MATERIALS HANDLING SOLUTIONS INC,224.23,224.23,0.0,2021-12-06,duplicate_suspected,DPH Public Health,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53957801,PAY-0184771401,OFFICE DEPOT,547.89,547.89,0.0,2021-10-21,matched,DPH Public Health,Matched payment,No action required.
+53950801,PAY-0175697401,US FOODS INC,112.6,112.6,0.0,2021-08-02,matched,DPH Public Health,Matched payment,No action required.
+54008901,PAY-0185450601,IMPARK,3585.12,3696.0,110.88,2021-10-27,ledger_mismatch,MTA Municipal Transprtn Agncy,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+54005801,PAY-0192710001,SHANTI PROJECT,769.97,769.97,0.0,2022-01-05,duplicate_suspected,DPH Public Health,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+54000201,PAY-0206348501,GARRATT-CALLAHAN COMPANY,1668.58,1668.58,0.0,2022-04-18,duplicate_suspected,DPH Public Health,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53957401,PAY-0187876501,MOBILE MODULAR MANAGEMENT CORP,344.88,344.88,0.0,2021-11-17,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53948201,PAY-0185019201,VESTIS SERVICES LLC,272.4,272.4,0.0,2021-10-22,matched,LIB Public Library,Matched payment,No action required.
+53950801,PAY-0175698101,US FOODS INC,87.81,87.81,0.0,2021-08-02,matched,DPH Public Health,Matched payment,No action required.
+54009101,PAY-0188381901,STAPLES BUSINESS ADVANTAGE,8.65,8.92,0.27,2021-11-22,ledger_mismatch,LIB Public Library,Ledger update lag after payment clearance,Refresh ledger sync and confirm the final posted amount.
+53941801,PAY-0208837001,UNITED CALIFORNIA GLASS & DOOR,1082.0,1082.0,0.0,2022-05-09,matched,WAR War Memorial,Matched payment,No action required.
+54008101,PAY-0197366101,COMCAST OF CA/COLORADO/WASHINGTON I INC,162.8,162.8,0.0,2022-02-09,duplicate_suspected,CII Commty Invest & Infrstrctr,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53954001,PAY-0195603901,ROBERTS HARDWARE,76.53,76.53,0.0,2022-01-27,matched,REC Recreation & Park Commsn,Matched payment,No action required.
+54009801,PAY-0199237001,CITY AUTO SUPPLY,15.11,15.58,0.47,2022-03-01,ledger_mismatch,MTA Municipal Transprtn Agncy,Ledger update lag after payment clearance,Refresh ledger sync and confirm the final posted amount.
+53930101,PAY-0186364201,INTERNATIONAL FIRE INC,593.31,593.31,0.0,2021-11-04,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53966101,PAY-0210250801,Geotab USA Inc.,664.0,664.0,0.0,2022-05-19,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53955901,PAY-0175247701,C R BARD INC,1578.69,1578.69,0.0,2022-06-14,matched,DPH Public Health,Matched payment,No action required.
+53966501,PAY-0179519501,PROFESSIONAL CONTRACTOR SUPPLY (PCS),406.61,406.61,0.0,2021-09-07,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53951301,PAY-0174444401,VESTIS SERVICES LLC,21.95,21.95,0.0,2021-07-23,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53944301,PAY-0182801901,M S C INDUSTRIAL SUPPLY COMPANY INC,268.52,268.52,0.0,2021-10-04,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53917401,PAY-0211979401,A&A Health Services LLC,184000.0,184000.0,0.0,2022-06-08,matched,DPH Public Health,Matched payment,No action required.
+53973601,PAY-0185249001,DISCOUNT BUILDERS SUPPLY,0.25,0.25,0.0,2021-10-26,matched,HOM Homelessness Services,Matched payment,No action required.
+53926701,PAY-0174821601,UPWARDLY GLOBAL,10090.32,10090.32,0.0,2021-07-26,matched,MYR Mayor,Matched payment,No action required.
+53951301,PAY-0208609101,VESTIS SERVICES LLC,21.95,21.95,0.0,2022-05-06,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53944301,PAY-0179961801,M S C INDUSTRIAL SUPPLY COMPANY INC,181.46,181.46,0.0,2021-09-09,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53964201,PAY-0196396301,WESTERN STATES OIL,5751.72,5751.72,0.0,2022-02-02,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53975701,PAY-0192989301,CENTER HARDWARE CO INC,120.0,120.0,0.0,2022-01-03,matched,REG Elections,Matched payment,No action required.
+53983701,PAY-0177592901,VERIZON WIRELESS,153.2,180.24,27.04,2021-08-17,overpaid,PUC Public Utilities Commsn,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53964401,PAY-0186167501,SABAH INTERNATIONAL INC,269.5,269.5,0.0,2021-11-02,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53944301,PAY-0185219801,M S C INDUSTRIAL SUPPLY COMPANY INC,15.08,15.08,0.0,2021-10-25,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53968901,PAY-0187704901,CITY AUTO SUPPLY,170.63,170.63,0.0,2021-11-16,matched,AIR Airport Commission,Matched payment,No action required.
+53955301,PAY-0176128101,MEDTRONIC USA INC,16388.38,16388.38,0.0,2021-11-16,matched,DPH Public Health,Matched payment,No action required.
+53930401,PAY-0182463301,GILTON SOLID WASTE,7525.8,7525.8,0.0,2021-09-29,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53996301,PAY-0182135301,MALTBY ELECTRIC SUPPLY CO INC,52.56,44.54,-8.02,2021-09-27,underpaid,AIR Airport Commission,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53979501,PAY-0177280901,FLUID GAUGE COMPANY,511.66,601.95,90.29,2021-08-13,overpaid,DPW Public Works,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53975701,PAY-0180494101,CENTER HARDWARE CO INC,7428.07,7428.07,0.0,2021-09-15,matched,REG Elections,Matched payment,No action required.
+53970601,PAY-0203823901,SERRAMONTE FORD,418.68,418.68,0.0,2022-03-28,matched,AIR Airport Commission,Matched payment,No action required.
+53944301,PAY-0203908601,M S C INDUSTRIAL SUPPLY COMPANY INC,12.1,12.1,0.0,2022-03-28,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53970601,PAY-0198698301,SERRAMONTE FORD,31.93,31.93,0.0,2022-02-18,matched,AIR Airport Commission,Matched payment,No action required.
+53989801,PAY-0177822801,GOLDENGATE DOOR & WINDOW INC,635.8,538.81,-96.99,2021-08-19,underpaid,DPW Public Works,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53914901,PAY-0207431201,KONICA MINOLTA BUSINESS SOLUTNS USA INC,35.33,35.33,0.0,2022-04-27,matched,DPH Public Health,Matched payment,No action required.
+53921401,PAY-0209418001,CALPINE ENERGY SERVICES LP,225000.0,225000.0,0.0,2022-05-13,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53983701,PAY-0185043801,VERIZON WIRELESS,326.11,383.66,57.55,2021-10-22,overpaid,PUC Public Utilities Commsn,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53951301,PAY-0202133201,VESTIS SERVICES LLC,73.5,73.5,0.0,2022-03-15,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53968901,PAY-0214601401,CITY AUTO SUPPLY,486.22,486.22,0.0,2022-06-22,matched,AIR Airport Commission,Matched payment,No action required.
+53924901,PAY-0181161901,STAPLES BUSINESS ADVANTAGE,98.73,98.73,0.0,2021-10-05,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53968901,PAY-0186208901,CITY AUTO SUPPLY,64.4,64.4,0.0,2021-11-03,matched,AIR Airport Commission,Matched payment,No action required.
+53969601,PAY-0197082301,TFB GLOBAL LLC,10319.66,10319.66,0.0,2022-02-08,matched,AIR Airport Commission,Matched payment,No action required.
+53917201,PAY-0184481601,VESTIS SERVICES LLC,448.65,448.65,0.0,2021-10-19,matched,AIR Airport Commission,Matched payment,No action required.
+53914901,PAY-0207434001,KONICA MINOLTA BUSINESS SOLUTNS USA INC,421.77,421.77,0.0,2022-04-27,matched,DPH Public Health,Matched payment,No action required.
+53960501,PAY-0187591901,RIDGE FOUNDRY INC,7336.52,7336.52,0.0,2021-11-23,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53960701,PAY-0196227201,KONICA MINOLTA BUSINESS SOLUTNS USA INC,756.68,756.68,0.0,2022-02-01,matched,DPH Public Health,Matched payment,No action required.
+53917201,PAY-0207051701,VESTIS SERVICES LLC,611.69,611.69,0.0,2022-04-25,matched,AIR Airport Commission,Matched payment,No action required.
+54000501,PAY-0181114701,WESTSIDE COMMUNITY MENTAL HEALTH CTR INC,24877.93,24877.93,0.0,2021-09-20,duplicate_suspected,DPH Public Health,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53976001,PAY-0175058401,Jimmie Muscatello's,308.23,362.62,54.39,2021-07-27,overpaid,POL Police,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53938801,PAY-0175559401,MEDLINE INDUSTRIES INC,1611.67,1611.67,0.0,2021-09-15,matched,DPH Public Health,Matched payment,No action required.
+53924401,PAY-0187636801,BlueTriton Brands Inc,4.33,4.33,0.0,2021-11-16,matched,DPH Public Health,Matched payment,No action required.
+53952501,PAY-0177807401,VESTIS SERVICES LLC,14.9,14.9,0.0,2021-08-19,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+54005101,PAY-0189919301,T & S TRADING & ENTERPRISE CO,722.97,722.97,0.0,2021-12-03,duplicate_suspected,AIR Airport Commission,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53944301,PAY-0177401701,M S C INDUSTRIAL SUPPLY COMPANY INC,89.64,89.64,0.0,2021-08-16,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53952501,PAY-0186237801,VESTIS SERVICES LLC,14.9,14.9,0.0,2021-11-03,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53971201,PAY-0200355401,XEROX CORPORATION,153.21,153.21,0.0,2022-03-01,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53924401,PAY-0212423201,BlueTriton Brands Inc,77.73,77.73,0.0,2022-06-07,matched,DPH Public Health,Matched payment,No action required.
+53972301,PAY-0200296801,XEROX CORPORATION,167.95,167.95,0.0,2022-03-03,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53975701,PAY-0195068801,CENTER HARDWARE CO INC,79.46,93.48,14.02,2022-01-21,overpaid,REG Elections,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+54009801,PAY-0191211301,CITY AUTO SUPPLY,9.07,9.35,0.28,2021-12-22,ledger_mismatch,MTA Municipal Transprtn Agncy,Ledger update lag after payment clearance,Refresh ledger sync and confirm the final posted amount.
+54008201,PAY-0197061201,MISSION LINEN SUPPLY,344.96,355.63,10.67,2022-02-08,ledger_mismatch,DPH Public Health,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+53975701,PAY-0194254001,CENTER HARDWARE CO INC,16.62,19.55,2.93,2022-01-13,overpaid,REG Elections,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53967201,PAY-0203135801,LAZ PARKING CALIFORNIA LLC,29894.22,29894.22,0.0,2022-04-13,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53995301,PAY-0181445901,MT ST JOSEPH-ST ELIZABETH,233442.37,197832.52,-35609.85,2021-09-22,underpaid,DPH Public Health,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53968901,PAY-0192085701,CITY AUTO SUPPLY,24.82,24.82,0.0,2021-12-22,matched,AIR Airport Commission,Matched payment,No action required.
+53941901,PAY-0200501201,GLOBAL ACCESS SUPPLY INC,6850.25,6850.25,0.0,2022-03-02,matched,AIR Airport Commission,Matched payment,No action required.
+53942001,PAY-0204928601,LANGUAGELINE SOLUTIONS,2326.65,2326.65,0.0,2022-05-02,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53975701,PAY-0206156701,CENTER HARDWARE CO INC,187.34,220.4,33.06,2022-04-15,overpaid,REG Elections,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53957801,PAY-0176981501,OFFICE DEPOT,19.28,19.28,0.0,2021-08-11,matched,DPH Public Health,Matched payment,No action required.
+53971201,PAY-0195823801,XEROX CORPORATION,137.25,137.25,0.0,2022-01-28,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53968901,PAY-0186381501,CITY AUTO SUPPLY,165.15,165.15,0.0,2021-11-04,matched,AIR Airport Commission,Matched payment,No action required.
+53971201,PAY-0206093701,XEROX CORPORATION,153.82,153.82,0.0,2022-04-15,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53983701,PAY-0180342501,VERIZON WIRELESS,209.56,246.54,36.98,2021-09-14,overpaid,PUC Public Utilities Commsn,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53945501,PAY-0181247201,CRESCO EQUIPMENT RENTALS,5105.38,5105.38,0.0,2021-09-28,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53969601,PAY-0182172901,TFB GLOBAL LLC,76.13,76.13,0.0,2021-09-27,matched,AIR Airport Commission,Matched payment,No action required.
+53924401,PAY-0212419001,BlueTriton Brands Inc,236.21,236.21,0.0,2022-06-07,matched,DPH Public Health,Matched payment,No action required.
+53968901,PAY-0183585401,CITY AUTO SUPPLY,68.92,68.92,0.0,2021-10-12,matched,AIR Airport Commission,Matched payment,No action required.
+54009801,PAY-0203151801,CITY AUTO SUPPLY,93.87,96.77,2.9,2022-04-11,ledger_mismatch,MTA Municipal Transprtn Agncy,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+54006301,PAY-0176025001,STAPLES BUSINESS ADVANTAGE,793.58,793.58,0.0,2021-08-04,duplicate_suspected,LIB Public Library,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53924601,PAY-0190833701,COMCAST OF CA/COLORADO/WASHINGTON I INC,835.54,835.54,0.0,2021-12-13,matched,DEM Emergency Management,Matched payment,No action required.
+53921301,PAY-0211595201,INTERNATIONAL FIRE INC,72.61,72.61,0.0,2022-06-01,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53939401,PAY-0190411401,BOUND TREE MEDICAL LLC,1897.46,1897.46,0.0,2021-12-08,matched,FIR Fire Department,Matched payment,No action required.
+53996701,PAY-0187091201,WESTERN STATES OIL,3445.0,2919.49,-525.51,2021-11-10,underpaid,FIR Fire Department,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53924401,PAY-0212421101,BlueTriton Brands Inc,143.79,143.79,0.0,2022-06-07,matched,DPH Public Health,Matched payment,No action required.
+53975701,PAY-0182901301,CENTER HARDWARE CO INC,1609.99,1609.99,0.0,2021-10-05,matched,REG Elections,Matched payment,No action required.
+53952501,PAY-0180211001,VESTIS SERVICES LLC,14.9,14.9,0.0,2021-09-13,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53996701,PAY-0178516201,WESTERN STATES OIL,4442.43,3764.77,-677.66,2021-08-25,underpaid,FIR Fire Department,Installment split created a short settlement,Match split installments against the original invoice value.
+54000501,PAY-0206018001,WESTSIDE COMMUNITY MENTAL HEALTH CTR INC,586.96,586.96,0.0,2022-04-14,duplicate_suspected,DPH Public Health,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53953101,PAY-0185038301,XEROX CORPORATION,22.83,22.83,0.0,2021-10-22,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+54005901,PAY-0173676101,OFFICE DEPOT,9.65,9.65,0.0,2021-08-02,duplicate_suspected,DPH Public Health,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53924401,PAY-0180122901,BlueTriton Brands Inc,4.33,4.33,0.0,2021-09-10,matched,DPH Public Health,Matched payment,No action required.
+53925701,PAY-0186375901,OFFICE DEPOT,27.65,27.65,0.0,2021-11-04,matched,DPH Public Health,Matched payment,No action required.
+54006801,PAY-0187302101,SHRED WORKS,57.0,57.0,0.0,2021-11-15,duplicate_suspected,DEM Emergency Management,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53975701,PAY-0210598601,CENTER HARDWARE CO INC,57.73,67.92,10.19,2022-05-23,overpaid,REG Elections,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53921301,PAY-0208953901,INTERNATIONAL FIRE INC,566.14,566.14,0.0,2022-05-10,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53926901,PAY-0210083401,DISCOUNT BUILDERS SUPPLY,28.46,28.46,0.0,2022-05-19,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53953501,PAY-0207423801,SAN FRANCISCO FOOD BANK,4804.32,4804.32,0.0,2022-04-29,matched,DPH Public Health,Matched payment,No action required.
+53992601,PAY-0187763601,TELOS IDENTITY MANAGEMENT SOLUTIONS LLC,9748.86,8261.75,-1487.11,2021-11-17,underpaid,AIR Airport Commission,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53972001,PAY-0198896001,CENTER HARDWARE CO INC,23.23,23.23,0.0,2022-02-22,matched,HOM Homelessness Services,Matched payment,No action required.
+53963601,PAY-0212105001,IMCO PARKING LLC,160569.61,160569.61,0.0,2022-06-09,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53951301,PAY-0195556801,VESTIS SERVICES LLC,80.85,80.85,0.0,2022-01-26,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53950801,PAY-0180813801,US FOODS INC,743.52,743.52,0.0,2021-09-17,matched,DPH Public Health,Matched payment,No action required.
+53923901,PAY-0186151401,SHELL ENERGY NORTH AMERICA (US) LP,9544.5,9544.5,0.0,2021-11-02,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53983701,PAY-0205040701,VERIZON WIRELESS,305.34,359.22,53.88,2022-04-06,overpaid,PUC Public Utilities Commsn,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53925201,PAY-0214215301,CAUSA JUSTA: JUST CAUSE,2259.65,2259.65,0.0,2022-06-19,matched,MYR Mayor,Matched payment,No action required.
+53939401,PAY-0198437701,BOUND TREE MEDICAL LLC,14056.35,14056.35,0.0,2022-02-17,matched,FIR Fire Department,Matched payment,No action required.
+53988901,PAY-0207190001,STAPLES BUSINESS ADVANTAGE,172.82,146.46,-26.36,2022-04-25,underpaid,REC Recreation & Park Commsn,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+54008201,PAY-0200195601,MISSION LINEN SUPPLY,1072.5,1105.67,33.17,2022-03-01,ledger_mismatch,DPH Public Health,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53950901,PAY-0202181801,CRESCO EQUIPMENT RENTALS,2824.25,2824.25,0.0,2022-04-11,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53952501,PAY-0193216401,VESTIS SERVICES LLC,164.55,164.55,0.0,2022-01-04,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+54004701,PAY-0177005901,PARKMERCED OWNER LLC,2808.76,2808.76,0.0,2021-08-11,duplicate_suspected,HSA Human Services Agency,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53921301,PAY-0189979301,INTERNATIONAL FIRE INC,430.13,430.13,0.0,2021-12-06,matched,ADM GSA - City Administrator,Matched payment,No action required.
+54008201,PAY-0208284301,MISSION LINEN SUPPLY,1157.76,1193.57,35.81,2022-05-04,ledger_mismatch,DPH Public Health,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+53967201,PAY-0185642501,LAZ PARKING CALIFORNIA LLC,45833.59,45833.59,0.0,2021-11-20,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53951301,PAY-0183140101,VESTIS SERVICES LLC,73.5,73.5,0.0,2021-10-06,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53943501,PAY-0178207601,HARRISON & BONINI INC,161.63,161.63,0.0,2021-08-23,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53933601,PAY-0173576201,MEDLINE INDUSTRIES INC,2.17,2.17,0.0,2021-07-15,matched,DPH Public Health,Matched payment,No action required.
+53970601,PAY-0211229301,SERRAMONTE FORD,123.22,123.22,0.0,2022-05-27,matched,AIR Airport Commission,Matched payment,No action required.
+53944301,PAY-0185931001,M S C INDUSTRIAL SUPPLY COMPANY INC,17.68,17.68,0.0,2021-11-01,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53967201,PAY-0204468801,LAZ PARKING CALIFORNIA LLC,27318.61,27318.61,0.0,2022-04-01,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53936601,PAY-0173572901,MEDLINE INDUSTRIES INC,32.85,32.85,0.0,2021-07-15,matched,DPH Public Health,Matched payment,No action required.
+53970601,PAY-0197639901,SERRAMONTE FORD,76.91,76.91,0.0,2022-02-11,matched,AIR Airport Commission,Matched payment,No action required.
+53983701,PAY-0185706101,VERIZON WIRELESS,312.27,367.38,55.11,2021-10-29,overpaid,PUC Public Utilities Commsn,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53960901,PAY-0204737801,CORE LINEN SERVICES INC.,24821.47,24821.47,0.0,2022-04-05,matched,DPH Public Health,Matched payment,No action required.
+53917201,PAY-0190197101,VESTIS SERVICES LLC,24.25,24.25,0.0,2021-12-07,matched,AIR Airport Commission,Matched payment,No action required.
+53975701,PAY-0205137301,CENTER HARDWARE CO INC,17.42,20.5,3.08,2022-04-07,overpaid,REG Elections,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53968901,PAY-0180000401,CITY AUTO SUPPLY,96.93,96.93,0.0,2021-09-10,matched,AIR Airport Commission,Matched payment,No action required.
+53975701,PAY-0189710401,CENTER HARDWARE CO INC,1240.26,1240.26,0.0,2021-12-02,matched,REG Elections,Matched payment,No action required.
+54000001,PAY-0176936301,SAN FRANCISCO FOOD BANK,34.19,34.19,0.0,2021-08-11,duplicate_suspected,DPH Public Health,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53953701,PAY-0181881601,JACOBS ENGINEERING GROUP INC,627.45,627.45,0.0,2021-09-23,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53975701,PAY-0202386401,CENTER HARDWARE CO INC,13.84,16.28,2.44,2022-03-17,overpaid,REG Elections,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53983501,PAY-0189178501,SHANTI PROJECT,13146.91,15466.95,2320.04,2021-12-01,overpaid,DPH Public Health,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53973701,PAY-0187513001,OFFICE DEPOT,33.29,33.29,0.0,2021-11-15,matched,DPH Public Health,Matched payment,No action required.
+53976001,PAY-0176673101,Jimmie Muscatello's,513.01,603.54,90.53,2021-08-09,overpaid,POL Police,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53981701,PAY-0185094901,TREELINE SECURITY INC,2873.03,3380.03,507.0,2021-10-22,overpaid,PUC Public Utilities Commsn,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53918301,PAY-0206547301,KONICA MINOLTA BUSINESS SOLUTNS USA INC,74.23,74.23,0.0,2022-04-21,matched,DPH Public Health,Matched payment,No action required.
+53986401,PAY-0185207201,INTERSTATE TRAFFIC CONTROL PRODUCTS INC,10422.44,8832.58,-1589.86,2021-10-25,underpaid,AIR Airport Commission,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+54008201,PAY-0188261601,MISSION LINEN SUPPLY,695.72,717.24,21.52,2021-11-19,ledger_mismatch,DPH Public Health,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+53968901,PAY-0190179201,CITY AUTO SUPPLY,42.26,42.26,0.0,2021-12-07,matched,AIR Airport Commission,Matched payment,No action required.
+53952301,PAY-0192067401,FELTON INSTITUTE,4528.94,4528.94,0.0,2021-12-22,matched,DPH Public Health,Matched payment,No action required.
+53983701,PAY-0198327301,VERIZON WIRELESS,233.78,275.04,41.26,2022-02-17,overpaid,PUC Public Utilities Commsn,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53995901,PAY-0214668701,SHRED WORKS,101.48,86.0,-15.48,2022-06-22,underpaid,CAT City Attorney,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53969001,PAY-0182978901,XEROX CORPORATION,199.25,199.25,0.0,2021-10-05,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53975701,PAY-0199974701,CENTER HARDWARE CO INC,28.72,33.79,5.07,2022-02-25,overpaid,REG Elections,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53939401,PAY-0183640901,BOUND TREE MEDICAL LLC,106.18,106.18,0.0,2021-10-12,matched,FIR Fire Department,Matched payment,No action required.
+53914901,PAY-0207430501,KONICA MINOLTA BUSINESS SOLUTNS USA INC,62.73,62.73,0.0,2022-04-27,matched,DPH Public Health,Matched payment,No action required.
+53979901,PAY-0207322701,LEXISNEXIS RISK SOLUTIONS FL INC,7831.76,9213.83,1382.07,2022-04-26,overpaid,POL Police,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53975701,PAY-0193430601,CENTER HARDWARE CO INC,543.1,543.1,0.0,2022-01-06,matched,REG Elections,Matched payment,No action required.
+53921101,PAY-0185407501,SIEMENS INDUSTRY INC,19222.0,19222.0,0.0,2021-10-26,matched,LIB Public Library,Matched payment,No action required.
+53917201,PAY-0177756101,VESTIS SERVICES LLC,495.38,495.38,0.0,2021-08-18,matched,AIR Airport Commission,Matched payment,No action required.
+53996301,PAY-0178411001,MALTBY ELECTRIC SUPPLY CO INC,2271.71,1925.18,-346.53,2021-08-24,underpaid,AIR Airport Commission,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53923201,PAY-0183451601,PACIFIC GAS & ELECTRIC CO,77000.0,77000.0,0.0,2021-10-08,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53966501,PAY-0203150301,PROFESSIONAL CONTRACTOR SUPPLY (PCS),483.22,483.22,0.0,2022-03-23,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53952301,PAY-0194557101,FELTON INSTITUTE,15419.08,15419.08,0.0,2022-01-18,matched,DPH Public Health,Matched payment,No action required.
+53979001,PAY-0176818701,AON RISK INSURANCE SERVICES WEST INC,54246.67,63819.61,9572.94,2021-08-10,overpaid,ADM GSA - City Administrator,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53952101,PAY-0174487101,STAPLES BUSINESS ADVANTAGE,240.83,240.83,0.0,2021-07-22,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53968901,PAY-0214613801,CITY AUTO SUPPLY,70.79,70.79,0.0,2022-06-22,matched,AIR Airport Commission,Matched payment,No action required.
+53969001,PAY-0209885701,XEROX CORPORATION,129.63,129.63,0.0,2022-05-17,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53957201,PAY-0173076401,CENTER HARDWARE CO INC,978.28,978.28,0.0,2021-07-19,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+54010301,PAY-0173550601,BAXTER HEALTHCARE CORP,2391.37,2465.33,73.96,2021-07-15,ledger_mismatch,DPH Public Health,Ledger update lag after payment clearance,Refresh ledger sync and confirm the final posted amount.
+53969001,PAY-0206124101,XEROX CORPORATION,135.1,135.1,0.0,2022-04-15,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53964501,PAY-0202262601,RECOLOGY SAN FRANCISCO,439.87,439.87,0.0,2022-03-16,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53963601,PAY-0201968701,IMCO PARKING LLC,62812.11,62812.11,0.0,2022-03-14,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53923801,PAY-0180808701,LIFE-ASSIST INC,64.65,64.65,0.0,2021-09-17,matched,POL Police,Matched payment,No action required.
+53969601,PAY-0201337101,TFB GLOBAL LLC,3444.45,3444.45,0.0,2022-03-09,matched,AIR Airport Commission,Matched payment,No action required.
+53925701,PAY-0193064801,OFFICE DEPOT,20.46,20.46,0.0,2022-01-03,matched,DPH Public Health,Matched payment,No action required.
+53973601,PAY-0191959401,DISCOUNT BUILDERS SUPPLY,67.36,67.36,0.0,2021-12-23,matched,HOM Homelessness Services,Matched payment,No action required.
+53975501,PAY-0208533701,BlueTriton Brands Inc,332.96,332.96,0.0,2022-05-05,matched,DPH Public Health,Matched payment,No action required.
+53969601,PAY-0177605501,TFB GLOBAL LLC,18899.26,18899.26,0.0,2021-08-17,matched,AIR Airport Commission,Matched payment,No action required.
+53939401,PAY-0181453601,BOUND TREE MEDICAL LLC,123.91,123.91,0.0,2021-09-22,matched,FIR Fire Department,Matched payment,No action required.
+53924401,PAY-0205341901,BlueTriton Brands Inc,4.33,4.33,0.0,2022-04-11,matched,DPH Public Health,Matched payment,No action required.
+53951301,PAY-0179110801,VESTIS SERVICES LLC,92.61,92.61,0.0,2021-09-01,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53975701,PAY-0196711401,CENTER HARDWARE CO INC,128.24,150.87,22.63,2022-02-04,overpaid,REG Elections,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53968201,PAY-0182316501,AT&T MOBILITY,135.62,135.62,0.0,2021-09-28,matched,DPW Public Works,Matched payment,No action required.
+53959501,PAY-0175491201,Cummins Inc,85.56,85.56,0.0,2021-08-05,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+54006401,PAY-0179369401,PACIFIC GAS & ELECTRIC CO,283950.0,283950.0,0.0,2021-09-10,duplicate_suspected,PUC Public Utilities Commsn,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53950801,PAY-0176107601,US FOODS INC,3664.03,3664.03,0.0,2021-08-04,matched,DPH Public Health,Matched payment,No action required.
+54006301,PAY-0185054701,STAPLES BUSINESS ADVANTAGE,425.59,425.59,0.0,2021-10-22,duplicate_suspected,LIB Public Library,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53939401,PAY-0177021101,BOUND TREE MEDICAL LLC,956.48,956.48,0.0,2021-08-12,matched,FIR Fire Department,Matched payment,No action required.
+54009701,PAY-0174023001,ANNA M FOSTER,756.6,780.0,23.4,2021-07-20,ledger_mismatch,DPA Police Accountabilty,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53944301,PAY-0189028601,M S C INDUSTRIAL SUPPLY COMPANY INC,41.29,41.29,0.0,2021-11-24,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53939401,PAY-0193851101,BOUND TREE MEDICAL LLC,9740.4,9740.4,0.0,2022-01-10,matched,FIR Fire Department,Matched payment,No action required.
+53964201,PAY-0211398901,WESTERN STATES OIL,7800.94,7800.94,0.0,2022-05-31,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53939401,PAY-0178247601,BOUND TREE MEDICAL LLC,32204.14,32204.14,0.0,2021-08-23,matched,FIR Fire Department,Matched payment,No action required.
+54000501,PAY-0214276201,WESTSIDE COMMUNITY MENTAL HEALTH CTR INC,26838.68,26838.68,0.0,2022-06-21,duplicate_suspected,DPH Public Health,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53929701,PAY-0180396201,INTERNATIONAL FIRE INC,1133.85,1133.85,0.0,2021-09-14,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53996701,PAY-0183316801,WESTERN STATES OIL,4462.13,3781.47,-680.66,2021-10-07,underpaid,FIR Fire Department,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+54006301,PAY-0201632001,STAPLES BUSINESS ADVANTAGE,87.86,87.86,0.0,2022-03-11,duplicate_suspected,LIB Public Library,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+54003901,PAY-0180173901,STERICYCLE INC,827.14,827.14,0.0,2021-09-13,duplicate_suspected,DPH Public Health,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+54008201,PAY-0204808201,MISSION LINEN SUPPLY,1234.12,1272.29,38.17,2022-04-05,ledger_mismatch,DPH Public Health,Ledger update lag after payment clearance,Refresh ledger sync and confirm the final posted amount.
+54008201,PAY-0180959701,MISSION LINEN SUPPLY,306.46,315.94,9.48,2021-09-17,ledger_mismatch,DPH Public Health,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53950801,PAY-0177037101,US FOODS INC,4429.6,4429.6,0.0,2021-08-12,matched,DPH Public Health,Matched payment,No action required.
+53950801,PAY-0181948201,US FOODS INC,1894.32,1894.32,0.0,2021-09-24,matched,DPH Public Health,Matched payment,No action required.
+53968901,PAY-0204030701,CITY AUTO SUPPLY,68.7,68.7,0.0,2022-03-30,matched,AIR Airport Commission,Matched payment,No action required.
+53918301,PAY-0185652901,KONICA MINOLTA BUSINESS SOLUTNS USA INC,60.03,60.03,0.0,2021-11-12,matched,DPH Public Health,Matched payment,No action required.
+53917201,PAY-0195661501,VESTIS SERVICES LLC,467.21,467.21,0.0,2022-01-27,matched,AIR Airport Commission,Matched payment,No action required.
+53983801,PAY-0190920301,NEWCO DISTRIBUTORS INC,336.6,396.0,59.4,2021-12-13,overpaid,REC Recreation & Park Commsn,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53963501,PAY-0194021301,SAN FRANCISCO BOTANICAL GARDEN SOCIETY,99936.0,99936.0,0.0,2022-01-12,matched,REC Recreation & Park Commsn,Matched payment,No action required.
+53969201,PAY-0182381501,CAL-STEAM A WOLSELEY COMPANY,111.58,111.58,0.0,2021-09-29,matched,LIB Public Library,Matched payment,No action required.
+53951301,PAY-0203963001,VESTIS SERVICES LLC,73.5,73.5,0.0,2022-03-29,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53975301,PAY-0193537101,NATIONAL UTILITY SALES CORP,9877.27,9877.27,0.0,2022-01-06,matched,PRT Port,Matched payment,No action required.
+53963601,PAY-0185731401,IMCO PARKING LLC,108438.29,108438.29,0.0,2021-11-20,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53971201,PAY-0182814001,XEROX CORPORATION,210.7,210.7,0.0,2021-10-04,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53968901,PAY-0197636201,CITY AUTO SUPPLY,50.93,50.93,0.0,2022-02-11,matched,AIR Airport Commission,Matched payment,No action required.
+53967901,PAY-0198250801,SOUTHERN CALIFORNIA EDISON CO.,937500.0,937500.0,0.0,2022-02-16,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53952501,PAY-0211495401,VESTIS SERVICES LLC,634.85,634.85,0.0,2022-05-31,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+54000501,PAY-0178213001,WESTSIDE COMMUNITY MENTAL HEALTH CTR INC,25407.14,25407.14,0.0,2021-08-23,duplicate_suspected,DPH Public Health,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53953701,PAY-0210848601,JACOBS ENGINEERING GROUP INC,458.69,458.69,0.0,2022-05-24,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53933301,PAY-0185473101,STAPLES BUSINESS ADVANTAGE,53.6,53.6,0.0,2021-11-08,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53929101,PAY-0174202101,POWERSPORTS OF VALLEJO INC,149.27,149.27,0.0,2021-07-21,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53951301,PAY-0192295301,VESTIS SERVICES LLC,73.5,73.5,0.0,2021-12-23,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+54009101,PAY-0205088701,STAPLES BUSINESS ADVANTAGE,73.34,75.61,2.27,2022-04-07,ledger_mismatch,LIB Public Library,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53978501,PAY-0201282101,Farzad Naeim Inc.,2167.5,2550.0,382.5,2022-03-10,overpaid,DBI Building Inspection,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53939401,PAY-0185353201,BOUND TREE MEDICAL LLC,82.5,82.5,0.0,2021-10-26,matched,FIR Fire Department,Matched payment,No action required.
+53952501,PAY-0199230801,VESTIS SERVICES LLC,164.16,164.16,0.0,2022-02-23,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53965201,PAY-0190614801,GOLDEN GATE PETROLEUM,6152.15,6152.15,0.0,2021-12-09,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53980601,PAY-0207774401,MICHEL A. KOZAK,1785.0,2100.0,315.0,2022-04-29,overpaid,POL Police,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53954701,PAY-0173793201,MEDLINE INDUSTRIES INC,2127.99,2127.99,0.0,2021-08-19,matched,DPH Public Health,Matched payment,No action required.
+53976401,PAY-0185693501,K & H INTEGRATED PRINT SOLUTIONS,400.06,470.66,70.6,2021-10-28,overpaid,REG Elections,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53914901,PAY-0207431901,KONICA MINOLTA BUSINESS SOLUTNS USA INC,48.38,48.38,0.0,2022-04-27,matched,DPH Public Health,Matched payment,No action required.
+53976401,PAY-0179760501,K & H INTEGRATED PRINT SOLUTIONS,3328.98,3916.45,587.47,2021-09-08,overpaid,REG Elections,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53951301,PAY-0180199401,VESTIS SERVICES LLC,80.85,80.85,0.0,2021-09-13,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53977901,PAY-0181574001,SAN MATEO LAWNMOWER,1047.76,1232.66,184.9,2021-09-23,overpaid,REC Recreation & Park Commsn,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53920701,PAY-0182168901,SIEMENS INDUSTRY INC,5348.0,5348.0,0.0,2021-09-27,matched,LIB Public Library,Matched payment,No action required.
+53918901,PAY-0183252701,EPISCOPAL COMMUNITY SVCS OF S F INC,62789.28,62789.28,0.0,2021-10-07,matched,DPH Public Health,Matched payment,No action required.
+53998401,PAY-0173721801,MEDLINE INDUSTRIES INC,7.54,6.39,-1.15,2021-07-16,underpaid,DPH Public Health,Installment split created a short settlement,Match split installments against the original invoice value.
+53924901,PAY-0207574001,STAPLES BUSINESS ADVANTAGE,89.91,89.91,0.0,2022-05-05,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53975701,PAY-0191000101,CENTER HARDWARE CO INC,190.09,190.09,0.0,2021-12-14,matched,REG Elections,Matched payment,No action required.
+54004101,PAY-0185796701,KONICA MINOLTA BUSINESS SOLUTNS USA INC,360.06,360.06,0.0,2021-10-29,duplicate_suspected,DPH Public Health,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53957101,PAY-0176823601,California Printing Consultants,15772.35,15772.35,0.0,2021-08-10,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53951301,PAY-0209850401,VESTIS SERVICES LLC,92.61,92.61,0.0,2022-05-17,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53966701,PAY-0177352001,GREY WALL SOFTWARE LLC,21725.0,21725.0,0.0,2021-08-13,matched,AIR Airport Commission,Matched payment,No action required.
+53941101,PAY-0207412401,BlueTriton Brands Inc,248.69,248.69,0.0,2022-05-24,matched,DPH Public Health,Matched payment,No action required.
+53952501,PAY-0208011201,VESTIS SERVICES LLC,164.16,164.16,0.0,2022-05-02,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53996301,PAY-0183358301,MALTBY ELECTRIC SUPPLY CO INC,111.82,94.76,-17.06,2021-10-08,underpaid,AIR Airport Commission,Installment split created a short settlement,Match split installments against the original invoice value.
+53917601,PAY-0198330501,SCHNEIDER ELECTRIC BUILDINGS AMERICAS,21174.58,21174.58,0.0,2022-02-16,matched,LIB Public Library,Matched payment,No action required.
+54000601,PAY-0195761801,KONICA MINOLTA BUSINESS SOLUTNS USA INC,418.33,418.33,0.0,2022-01-31,duplicate_suspected,DPH Public Health,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53979901,PAY-0179578601,LEXISNEXIS RISK SOLUTIONS FL INC,7834.73,9217.33,1382.6,2021-09-07,overpaid,POL Police,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53972001,PAY-0178970301,CENTER HARDWARE CO INC,158.34,158.34,0.0,2021-08-31,matched,HOM Homelessness Services,Matched payment,No action required.
+53967201,PAY-0211562101,LAZ PARKING CALIFORNIA LLC,104587.32,104587.32,0.0,2022-06-10,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53952501,PAY-0190450001,VESTIS SERVICES LLC,506.38,506.38,0.0,2021-12-08,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53915401,PAY-0178805301,ERGO INDUSTRIAL SEATING SYSTEMS INC,667.21,667.21,0.0,2021-08-30,matched,ADP Adult Probation,Matched payment,No action required.
+53919401,PAY-0179130101,CENTER HARDWARE CO INC,184.11,184.11,0.0,2021-09-01,matched,REC Recreation & Park Commsn,Matched payment,No action required.
+53921301,PAY-0175341401,INTERNATIONAL FIRE INC,24.21,24.21,0.0,2021-07-29,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53927601,PAY-0177049001,OXFORD INSTRUMENTS AMERICA INC,11618.0,11618.0,0.0,2021-08-12,matched,POL Police,Matched payment,No action required.
+53918301,PAY-0206545901,KONICA MINOLTA BUSINESS SOLUTNS USA INC,36.76,36.76,0.0,2022-04-21,matched,DPH Public Health,Matched payment,No action required.
+54006301,PAY-0192303001,STAPLES BUSINESS ADVANTAGE,64.47,64.47,0.0,2021-12-23,duplicate_suspected,LIB Public Library,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53952501,PAY-0183128201,VESTIS SERVICES LLC,27.0,27.0,0.0,2021-10-06,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53970601,PAY-0182168001,SERRAMONTE FORD,17.89,17.89,0.0,2021-09-27,matched,AIR Airport Commission,Matched payment,No action required.
+53971201,PAY-0186049001,XEROX CORPORATION,140.81,140.81,0.0,2021-11-02,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53976801,PAY-0189408401,IMPARK,1632.0,1920.0,288.0,2021-11-30,overpaid,REG Elections,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53976501,PAY-0192610701,UNITED SITE SERVICES OF CALIFORNIA INC,125.54,147.7,22.16,2021-12-28,overpaid,PUC Public Utilities Commsn,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53917201,PAY-0201119701,VESTIS SERVICES LLC,543.78,543.78,0.0,2022-03-08,matched,AIR Airport Commission,Matched payment,No action required.
+53968901,PAY-0183519901,CITY AUTO SUPPLY,339.57,339.57,0.0,2021-10-09,matched,AIR Airport Commission,Matched payment,No action required.
+54010701,PAY-0173523501,ON TARGET DELIVERY SERVICE,174.6,180.0,5.4,2021-07-15,ledger_mismatch,CII Commty Invest & Infrstrctr,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53917701,PAY-0214918901,BlueTriton Brands Inc,204.19,204.19,0.0,2022-06-23,matched,DPH Public Health,Matched payment,No action required.
+53950901,PAY-0179129201,CRESCO EQUIPMENT RENTALS,2824.25,2824.25,0.0,2021-09-08,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53966501,PAY-0184209901,PROFESSIONAL CONTRACTOR SUPPLY (PCS),2278.86,2278.86,0.0,2021-10-18,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53950601,PAY-0181250201,MALTBY ELECTRIC SUPPLY CO INC,236.75,236.75,0.0,2021-09-21,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+54005001,PAY-0208219901,UNITED CALIFORNIA GLASS & DOOR,525.0,525.0,0.0,2022-05-03,duplicate_suspected,LIB Public Library,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53939401,PAY-0182827701,BOUND TREE MEDICAL LLC,294.12,294.12,0.0,2021-10-04,matched,FIR Fire Department,Matched payment,No action required.
+53968901,PAY-0177256001,CITY AUTO SUPPLY,59.18,59.18,0.0,2021-08-13,matched,AIR Airport Commission,Matched payment,No action required.
+53924301,PAY-0210772101,COMCAST OF CALIFORNIA III INC,160.47,160.47,0.0,2022-05-24,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53918001,PAY-0183637301,OFFICE DEPOT,1113.23,1113.23,0.0,2021-10-12,matched,DPH Public Health,Matched payment,No action required.
+53973601,PAY-0206078001,DISCOUNT BUILDERS SUPPLY,0.25,0.25,0.0,2022-04-15,matched,HOM Homelessness Services,Matched payment,No action required.
+53996701,PAY-0207218901,WESTERN STATES OIL,6020.77,5102.35,-918.42,2022-04-27,underpaid,FIR Fire Department,Installment split created a short settlement,Match split installments against the original invoice value.
+53917201,PAY-0192005401,VESTIS SERVICES LLC,22.84,22.84,0.0,2021-12-21,matched,AIR Airport Commission,Matched payment,No action required.
+53968901,PAY-0191003701,CITY AUTO SUPPLY,105.72,105.72,0.0,2021-12-14,matched,AIR Airport Commission,Matched payment,No action required.
+53921301,PAY-0196615501,INTERNATIONAL FIRE INC,48.41,48.41,0.0,2022-02-04,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53996701,PAY-0173403601,WESTERN STATES OIL,4367.71,3701.45,-666.26,2021-07-14,underpaid,FIR Fire Department,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53996701,PAY-0197403201,WESTERN STATES OIL,4001.59,3391.18,-610.41,2022-02-09,underpaid,FIR Fire Department,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53950801,PAY-0187311301,US FOODS INC,7158.37,7158.37,0.0,2021-11-15,matched,DPH Public Health,Matched payment,No action required.
+53951301,PAY-0184713801,VESTIS SERVICES LLC,151.61,151.61,0.0,2021-10-20,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53970601,PAY-0204153001,SERRAMONTE FORD,158.75,158.75,0.0,2022-03-30,matched,AIR Airport Commission,Matched payment,No action required.
+53996701,PAY-0183302501,WESTERN STATES OIL,4354.46,3690.22,-664.24,2021-10-07,underpaid,FIR Fire Department,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53970601,PAY-0193003801,SERRAMONTE FORD,309.58,309.58,0.0,2022-01-03,matched,AIR Airport Commission,Matched payment,No action required.
+53973001,PAY-0211048501,KONICA MINOLTA BUSINESS SOLUTNS USA INC,412.32,412.32,0.0,2022-05-26,matched,DPH Public Health,Matched payment,No action required.
+54007101,PAY-0206142101,PARKMERCED OWNER LLC,2563.0,2563.0,0.0,2022-04-15,duplicate_suspected,HSA Human Services Agency,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53949301,PAY-0192024701,OFFICE DEPOT,52.49,52.49,0.0,2021-12-21,matched,DPH Public Health,Matched payment,No action required.
+53950801,PAY-0177030901,US FOODS INC,1115.29,1115.29,0.0,2021-08-12,matched,DPH Public Health,Matched payment,No action required.
+53979201,PAY-0173464001,GRAINGER,836.94,984.64,147.7,2021-07-14,overpaid,PRT Port,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53990501,PAY-0175839201,MEDLINE INDUSTRIES INC,83.43,70.7,-12.73,2021-08-03,underpaid,DPH Public Health,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53951301,PAY-0197229401,VESTIS SERVICES LLC,92.61,92.61,0.0,2022-02-08,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53996701,PAY-0202255101,WESTERN STATES OIL,8167.02,6921.2,-1245.82,2022-03-16,underpaid,FIR Fire Department,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53973601,PAY-0195363901,DISCOUNT BUILDERS SUPPLY,277.15,277.15,0.0,2022-01-25,matched,HOM Homelessness Services,Matched payment,No action required.
+53972001,PAY-0182128301,CENTER HARDWARE CO INC,52.77,52.77,0.0,2021-09-27,matched,HOM Homelessness Services,Matched payment,No action required.
+53943501,PAY-0182778101,HARRISON & BONINI INC,331.93,331.93,0.0,2021-10-04,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53916801,PAY-0175293001,WESTWIND TRADING CO,6505.58,6505.58,0.0,2021-08-19,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53968901,PAY-0196425601,CITY AUTO SUPPLY,21.13,21.13,0.0,2022-02-03,matched,AIR Airport Commission,Matched payment,No action required.
+53987701,PAY-0173800601,MEDLINE INDUSTRIES INC,23.59,19.99,-3.6,2021-07-17,underpaid,DPH Public Health,Credit note offset applied incorrectly,Review offset rules and clear the short payment.
+53924401,PAY-0196366701,BlueTriton Brands Inc,55.71,55.71,0.0,2022-02-02,matched,DPH Public Health,Matched payment,No action required.
+53945301,PAY-0186047701,CITY OF DALY CITY,138.14,138.14,0.0,2021-11-02,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53963501,PAY-0173817401,SAN FRANCISCO BOTANICAL GARDEN SOCIETY,133864.04,133864.04,0.0,2021-07-18,matched,REC Recreation & Park Commsn,Matched payment,No action required.
+53972001,PAY-0186558101,CENTER HARDWARE CO INC,83.58,83.58,0.0,2021-11-07,matched,HOM Homelessness Services,Matched payment,No action required.
+54011001,PAY-0183564801,HILL-ROM COMPANY INC,3421.88,3527.71,105.83,2021-10-20,ledger_mismatch,DPH Public Health,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53924401,PAY-0178279001,BlueTriton Brands Inc,131.11,131.11,0.0,2021-08-24,matched,DPH Public Health,Matched payment,No action required.
+53923401,PAY-0189896301,KONICA MINOLTA BUSINESS SOLUTNS USA INC,401.71,401.71,0.0,2021-12-03,matched,DPH Public Health,Matched payment,No action required.
+53971701,PAY-0178969401,A&H DOOR & ACCESS CONTROL,645.0,645.0,0.0,2021-08-31,matched,HOM Homelessness Services,Matched payment,No action required.
+53944201,PAY-0178624301,GRM INFORMATION MANAGEMENT SERVICES,140.4,140.4,0.0,2021-08-26,matched,DPH Public Health,Matched payment,No action required.
+53996401,PAY-0192793201,MACKAY METERS INC,972.32,824.0,-148.32,2022-01-06,underpaid,MTA Municipal Transprtn Agncy,Installment split created a short settlement,Match split installments against the original invoice value.
+53952601,PAY-0194056201,STAPLES BUSINESS ADVANTAGE,349.08,349.08,0.0,2022-01-12,matched,LIB Public Library,Matched payment,No action required.
+53952301,PAY-0176152301,FELTON INSTITUTE,308519.0,308519.0,0.0,2021-08-09,matched,DPH Public Health,Matched payment,No action required.
+53968901,PAY-0185370801,CITY AUTO SUPPLY,35.61,35.61,0.0,2021-10-26,matched,AIR Airport Commission,Matched payment,No action required.
+53981501,PAY-0176936201,MALLORY SAFETY & SUPPLY LLC,2158.89,2539.87,380.98,2021-08-11,overpaid,DPW Public Works,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+54005401,PAY-0173715601,MEDLINE INDUSTRIES INC,58.79,58.79,0.0,2021-07-16,duplicate_suspected,DPH Public Health,Same invoice may have been submitted through two channels,Compare intake channels and cancel the duplicate record.
+53955001,PAY-0174755701,CARDINALHEALTH MEDICAL PRODUCTS & SVCS,2916.43,2916.43,0.0,2021-07-24,matched,DPH Public Health,Matched payment,No action required.
+53962601,PAY-0173559001,MEDLINE INDUSTRIES INC,146.68,146.68,0.0,2021-07-15,matched,DPH Public Health,Matched payment,No action required.
+54000501,PAY-0191119501,WESTSIDE COMMUNITY MENTAL HEALTH CTR INC,93055.77,93055.77,0.0,2021-12-14,duplicate_suspected,DPH Public Health,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+54006301,PAY-0180903701,STAPLES BUSINESS ADVANTAGE,839.57,839.57,0.0,2021-09-17,duplicate_suspected,LIB Public Library,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53976701,PAY-0206376901,MAINLINE SECURITY INC.,49.24,57.93,8.69,2022-04-19,overpaid,HOM Homelessness Services,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53974601,PAY-0194680201,MALLORY SAFETY & SUPPLY LLC,123.84,123.84,0.0,2022-01-19,matched,REC Recreation & Park Commsn,Matched payment,No action required.
+53972001,PAY-0202174601,CENTER HARDWARE CO INC,69.48,69.48,0.0,2022-03-17,matched,HOM Homelessness Services,Matched payment,No action required.
+53957201,PAY-0173040601,CENTER HARDWARE CO INC,117.13,117.13,0.0,2021-07-19,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53983401,PAY-0178679301,VERIZON WIRELESS,109.36,128.66,19.3,2021-08-27,overpaid,PUC Public Utilities Commsn,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53976401,PAY-0191186501,K & H INTEGRATED PRINT SOLUTIONS,96159.15,113128.41,16969.26,2021-12-15,overpaid,REG Elections,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53952301,PAY-0209156201,FELTON INSTITUTE,15716.74,15716.74,0.0,2022-05-20,matched,DPH Public Health,Matched payment,No action required.
+53996701,PAY-0207532301,WESTERN STATES OIL,5871.85,4976.14,-895.71,2022-04-27,underpaid,FIR Fire Department,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+54011101,PAY-0183255601,CENTER HARDWARE CO INC,19.9,20.52,0.62,2021-10-15,ledger_mismatch,MTA Municipal Transprtn Agncy,Ledger update lag after payment clearance,Refresh ledger sync and confirm the final posted amount.
+53974901,PAY-0182648301,BIG DOG CITY CORPORATION,1301.85,1301.85,0.0,2021-10-01,matched,DPH Public Health,Matched payment,No action required.
+53970601,PAY-0178015101,SERRAMONTE FORD,522.26,522.26,0.0,2021-08-20,matched,AIR Airport Commission,Matched payment,No action required.
+53951301,PAY-0204957801,VESTIS SERVICES LLC,80.85,80.85,0.0,2022-04-06,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+54001101,PAY-0189978801,PAGE & TURNBULL INC,3397.0,3397.0,0.0,2021-12-06,duplicate_suspected,REC Recreation & Park Commsn,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+54008201,PAY-0195656301,MISSION LINEN SUPPLY,1188.11,1224.86,36.75,2022-01-27,ledger_mismatch,DPH Public Health,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+53919201,PAY-0193889901,JENSSEN SCALES INC,2540.0,2540.0,0.0,2022-01-24,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53941101,PAY-0182717601,BlueTriton Brands Inc,320.37,320.37,0.0,2021-10-01,matched,DPH Public Health,Matched payment,No action required.
+53983001,PAY-0174877201,AAA WORKSPACE,164.4,193.41,29.01,2021-07-26,overpaid,PUC Public Utilities Commsn,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53957901,PAY-0187315501,STAPLES BUSINESS ADVANTAGE,1348.97,1348.97,0.0,2022-01-03,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53968901,PAY-0183587701,CITY AUTO SUPPLY,6.8,6.8,0.0,2021-10-12,matched,AIR Airport Commission,Matched payment,No action required.
+53960901,PAY-0183258701,CORE LINEN SERVICES INC.,50185.24,50185.24,0.0,2021-10-07,matched,DPH Public Health,Matched payment,No action required.
+53943501,PAY-0193802001,HARRISON & BONINI INC,695.17,695.17,0.0,2022-01-10,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53952601,PAY-0201631701,STAPLES BUSINESS ADVANTAGE,398.0,398.0,0.0,2022-03-11,matched,LIB Public Library,Matched payment,No action required.
+53975701,PAY-0201443101,CENTER HARDWARE CO INC,20.91,24.6,3.69,2022-03-10,overpaid,REG Elections,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53934601,PAY-0195223401,GRAINGER,179.3,179.3,0.0,2022-01-24,matched,DPH Public Health,Matched payment,No action required.
+54009801,PAY-0181962301,CITY AUTO SUPPLY,237.84,245.2,7.36,2021-09-29,ledger_mismatch,MTA Municipal Transprtn Agncy,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+53958801,PAY-0189720901,Acme Workwear,175.95,175.95,0.0,2021-12-02,matched,REC Recreation & Park Commsn,Matched payment,No action required.
+53917201,PAY-0177759701,VESTIS SERVICES LLC,527.78,527.78,0.0,2021-08-18,matched,AIR Airport Commission,Matched payment,No action required.
+53924401,PAY-0186181801,BlueTriton Brands Inc,92.41,92.41,0.0,2021-11-02,matched,DPH Public Health,Matched payment,No action required.
+53941301,PAY-0202106401,TK ELEVATOR CORPORATION,1422.9,1422.9,0.0,2022-03-15,matched,WAR War Memorial,Matched payment,No action required.
+53947301,PAY-0174522901,RODNEY L EWING,18000.0,18000.0,0.0,2021-07-22,matched,ART Arts Commission,Matched payment,No action required.
+53968901,PAY-0196424001,CITY AUTO SUPPLY,49.35,49.35,0.0,2022-02-03,matched,AIR Airport Commission,Matched payment,No action required.
+53917201,PAY-0183589301,VESTIS SERVICES LLC,462.33,462.33,0.0,2021-10-12,matched,AIR Airport Commission,Matched payment,No action required.
+54009001,PAY-0173971301,AGURTO CORPORATION DBA PESTEC,303.8,313.2,9.4,2021-07-19,ledger_mismatch,ADM GSA - City Administrator,Ledger sync delay or wrong department mapping,Reconcile ledger entry and correct department allocation.
+53921301,PAY-0205017901,INTERNATIONAL FIRE INC,235.39,235.39,0.0,2022-04-06,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53968901,PAY-0184021601,CITY AUTO SUPPLY,55.91,55.91,0.0,2021-10-14,matched,AIR Airport Commission,Matched payment,No action required.
+53924401,PAY-0182704901,BlueTriton Brands Inc,36.7,36.7,0.0,2021-10-01,matched,DPH Public Health,Matched payment,No action required.
+53983701,PAY-0207973101,VERIZON WIRELESS,120.02,141.2,21.18,2022-05-02,overpaid,PUC Public Utilities Commsn,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53981101,PAY-0176652901,FLUID GAUGE COMPANY,1935.76,2277.36,341.6,2021-08-09,overpaid,DPW Public Works,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53986401,PAY-0178425701,INTERSTATE TRAFFIC CONTROL PRODUCTS INC,945.03,1111.8,166.77,2021-08-25,overpaid,AIR Airport Commission,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53974401,PAY-0186944601,COOK MEDICAL INC,515.97,515.97,0.0,2021-11-30,matched,DPH Public Health,Matched payment,No action required.
+54008201,PAY-0211121901,MISSION LINEN SUPPLY,1243.74,1282.21,38.47,2022-05-26,ledger_mismatch,DPH Public Health,Ledger update lag after payment clearance,Refresh ledger sync and confirm the final posted amount.
+53995901,PAY-0206684701,SHRED WORKS,94.4,80.0,-14.4,2022-04-21,underpaid,CAT City Attorney,Installment split created a short settlement,Match split installments against the original invoice value.
+53958101,PAY-0175713601,STRYKER SALES CORPORATION,1179.93,1179.93,0.0,2021-08-02,matched,DPH Public Health,Matched payment,No action required.
+53978901,PAY-0185930701,LANGUAGELINE SOLUTIONS,5342.49,6285.28,942.79,2021-11-01,overpaid,POL Police,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53944301,PAY-0188947901,M S C INDUSTRIAL SUPPLY COMPANY INC,8.47,8.47,0.0,2021-11-24,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53924401,PAY-0205337301,BlueTriton Brands Inc,158.47,158.47,0.0,2022-04-11,matched,DPH Public Health,Matched payment,No action required.
+54010801,PAY-0175810701,SELF-HELP FOR THE ELDERLY,26973.68,27807.92,834.24,2021-08-03,ledger_mismatch,HSA Human Services Agency,Journal posted to incorrect cost center,Move the journal entry to the right cost center and rebalance.
+53996301,PAY-0188676501,MALTBY ELECTRIC SUPPLY CO INC,68.4,57.97,-10.43,2021-11-22,underpaid,AIR Airport Commission,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53942201,PAY-0202680701,NEPC LLC,271245.0,271245.0,0.0,2022-03-18,matched,RET Retirement System,Matched payment,No action required.
+53939401,PAY-0178409101,BOUND TREE MEDICAL LLC,798.38,798.38,0.0,2021-08-24,matched,FIR Fire Department,Matched payment,No action required.
+53950801,PAY-0179687001,US FOODS INC,28539.78,28539.78,0.0,2021-09-07,matched,DPH Public Health,Matched payment,No action required.
+53932001,PAY-0173569201,MEDLINE INDUSTRIES INC,412.19,412.19,0.0,2021-07-15,matched,DPH Public Health,Matched payment,No action required.
+53999401,PAY-0196243701,KONICA MINOLTA BUSINESS SOLUTNS USA INC,631.77,631.77,0.0,2022-02-01,duplicate_suspected,DPH Public Health,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53979001,PAY-0179776401,AON RISK INSURANCE SERVICES WEST INC,31216.25,36725.0,5508.75,2021-09-08,overpaid,ADM GSA - City Administrator,Tax or surcharge applied twice,Validate tax components and adjust the payment record.
+53983701,PAY-0201703001,VERIZON WIRELESS,730.9,859.88,128.98,2022-03-11,overpaid,PUC Public Utilities Commsn,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53925701,PAY-0199203301,OFFICE DEPOT,39.41,39.41,0.0,2022-02-23,matched,DPH Public Health,Matched payment,No action required.
+53975701,PAY-0198410401,CENTER HARDWARE CO INC,81.96,96.42,14.46,2022-02-16,overpaid,REG Elections,Overpayment due to manual posting error,Investigate posting entry and recover excess payment.
+53952501,PAY-0208882201,VESTIS SERVICES LLC,14.9,14.9,0.0,2022-05-10,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53970601,PAY-0176453001,SERRAMONTE FORD,39.22,39.22,0.0,2021-08-06,matched,AIR Airport Commission,Matched payment,No action required.
+53932701,PAY-0173579501,MEDLINE INDUSTRIES INC,345.92,345.92,0.0,2021-07-15,matched,DPH Public Health,Matched payment,No action required.
+53975701,PAY-0193978201,CENTER HARDWARE CO INC,542.6,542.6,0.0,2022-01-11,matched,REG Elections,Matched payment,No action required.
+53995701,PAY-0200650801,PAYBYPHONE TECHNOLOGIES INC,12821.03,10865.28,-1955.75,2022-03-17,underpaid,MTA Municipal Transprtn Agncy,Installment split created a short settlement,Match split installments against the original invoice value.
+54006301,PAY-0186401701,STAPLES BUSINESS ADVANTAGE,1214.53,1214.53,0.0,2021-11-04,duplicate_suspected,LIB Public Library,Possible duplicate voucher posting,Cross-check voucher references and stop secondary settlement.
+53939401,PAY-0197510401,BOUND TREE MEDICAL LLC,39285.56,39285.56,0.0,2022-02-10,matched,FIR Fire Department,Matched payment,No action required.
+53943501,PAY-0200735501,HARRISON & BONINI INC,250.77,250.77,0.0,2022-03-03,matched,ADM GSA - City Administrator,Matched payment,No action required.
+53970601,PAY-0178020601,SERRAMONTE FORD,757.39,757.39,0.0,2021-08-20,matched,AIR Airport Commission,Matched payment,No action required.
+53924401,PAY-0180356901,BlueTriton Brands Inc,48.37,48.37,0.0,2021-09-14,matched,DPH Public Health,Matched payment,No action required.
+53939401,PAY-0190420501,BOUND TREE MEDICAL LLC,36399.03,36399.03,0.0,2021-12-08,matched,FIR Fire Department,Matched payment,No action required.
+54007001,PAY-0186216401,GRAINGER,750.14,750.14,0.0,2021-11-03,duplicate_suspected,LIB Public Library,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.
+53986401,PAY-0194519401,INTERSTATE TRAFFIC CONTROL PRODUCTS INC,1117.04,946.64,-170.4,2022-01-18,underpaid,AIR Airport Commission,Installment split created a short settlement,Match split installments against the original invoice value.
+53970601,PAY-0178961301,SERRAMONTE FORD,69.79,69.79,0.0,2021-08-31,matched,AIR Airport Commission,Matched payment,No action required.
+53979001,PAY-0202527301,AON RISK INSURANCE SERVICES WEST INC,200468.99,235845.87,35376.88,2022-04-18,overpaid,ADM GSA - City Administrator,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53924401,PAY-0182692701,BlueTriton Brands Inc,19.01,19.01,0.0,2021-10-01,matched,DPH Public Health,Matched payment,No action required.
+53995301,PAY-0210952801,MT ST JOSEPH-ST ELIZABETH,73135.14,61978.93,-11156.21,2022-05-25,underpaid,DPH Public Health,Partial payment or approval hold,Validate invoice approval path and release remaining balance.
+53924401,PAY-0192189501,BlueTriton Brands Inc,8.67,8.67,0.0,2021-12-22,matched,DPH Public Health,Matched payment,No action required.
+53975701,PAY-0205432601,CENTER HARDWARE CO INC,140.84,165.7,24.86,2022-04-11,overpaid,REG Elections,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53951601,PAY-0175389401,WAXIE SANITARY SUPPLY,871.54,871.54,0.0,2021-07-30,matched,DPH Public Health,Matched payment,No action required.
+53975701,PAY-0195547701,CENTER HARDWARE CO INC,230.82,271.55,40.73,2022-01-26,overpaid,REG Elections,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53973401,PAY-0185738601,OFFICE DEPOT,19.28,19.28,0.0,2021-10-29,matched,DPH Public Health,Matched payment,No action required.
+53923601,PAY-0175399501,VORTECH INDUSTRIES,2311.54,2311.54,0.0,2021-08-20,matched,MTA Municipal Transprtn Agncy,Matched payment,No action required.
+53953201,PAY-0199618101,CENTER HARDWARE CO INC,80.27,80.27,0.0,2022-02-25,matched,REC Recreation & Park Commsn,Matched payment,No action required.
+53976001,PAY-0175045901,Jimmie Muscatello's,308.09,362.46,54.37,2021-07-27,overpaid,POL Police,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53968901,PAY-0197879601,CITY AUTO SUPPLY,155.41,155.41,0.0,2022-02-14,matched,AIR Airport Commission,Matched payment,No action required.
+53983701,PAY-0198714801,VERIZON WIRELESS,309.95,364.65,54.7,2022-02-18,overpaid,PUC Public Utilities Commsn,Duplicate approval led to excess settlement,Reverse the duplicate approval and initiate vendor recovery.
+53966101,PAY-0191185101,Geotab USA Inc.,582.75,582.75,0.0,2021-12-15,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53968901,PAY-0202105501,CITY AUTO SUPPLY,18.5,18.5,0.0,2022-03-15,matched,AIR Airport Commission,Matched payment,No action required.
+53965701,PAY-0190475601,CRESCO EQUIPMENT RENTALS,930.7,930.7,0.0,2021-12-09,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53951901,PAY-0180229701,XEROX CORPORATION,85.3,85.3,0.0,2021-09-13,matched,PUC Public Utilities Commsn,Matched payment,No action required.
+53915901,PAY-0211400801,OFFICE DEPOT,896.06,896.06,0.0,2022-05-31,matched,DPH Public Health,Matched payment,No action required.
+54007001,PAY-0211388001,GRAINGER,104.15,104.15,0.0,2022-05-31,duplicate_suspected,LIB Public Library,Repeat payment detected for same invoice pattern,Freeze the repeated payment and verify vendor history.

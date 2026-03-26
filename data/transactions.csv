@@ -1,0 +1,6 @@
+transaction_id,vendor,amount,date
+1,ABC Ltd,5000,2026-01-01
+2,ABC Ltd,5000,2026-01-01
+3,XYZ Corp,12000,2026-01-02
+4,ABC Ltd,7000,2026-01-03
+5,XYZ Corp,15000,2026-01-04

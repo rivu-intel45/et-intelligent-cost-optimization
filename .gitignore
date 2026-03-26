@@ -1,0 +1,22 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+
+frontend/node_modules/
+frontend/build/
+
+# Large local data files not needed in Git
+data/azurepublicdatasetv2/
+data/sla_helpdesk/
+data/sf_vendor_payments_vouchers.csv
+data/transactions_sf_vouchers.csv
+data/sla_operations.csv
+data/finance_reconciliation.csv
+data/resource_usage_azure.csv
+data/actions_db.json
+
+*.log
+.DS_Store

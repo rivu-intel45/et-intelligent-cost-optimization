@@ -1,0 +1,11 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="#F5F5F5"/>
+  <rect x="188" y="125" width="24" height="95" fill="#333333"/>
+  <rect x="286" y="125" width="24" height="95" fill="#333333"/>
+  <rect x="188" y="125" width="58" height="19" fill="#333333"/>
+  <rect x="254" y="125" width="58" height="19" fill="#333333"/>
+  <circle cx="201" cy="205" r="15" fill="#39B8BE"/>
+  <circle cx="299" cy="205" r="15" fill="#39B8BE"/>
+  <text x="250" y="315" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="300" fill="#333333" letter-spacing="2">Optiqon</text>
+  <text x="250" y="370" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#39B8BE" letter-spacing="10">unlimited</text>
+</svg>
