@@ -17,6 +17,7 @@ data/sla_operations.csv
 data/finance_reconciliation.csv
 data/resource_usage_azure.csv
 data/actions_db.json
+data/audit_logs.json
 
 *.log
 .DS_Store
